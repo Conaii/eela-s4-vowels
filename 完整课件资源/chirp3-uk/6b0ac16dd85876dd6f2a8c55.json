@@ -1,0 +1,19 @@
+{
+  "key": "uk:The workmen sawed and hammered all day.",
+  "text": "The workmen sawed and hammered all day.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "6b0ac16dd85876dd6f2a8c55b432f1bffeea610316ab6c3897a3b0543919562d",
+  "mp3": "完整课件资源/chirp3-uk/6b0ac16dd85876dd6f2a8c55.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/6b0ac16dd85876dd6f2a8c55.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.863333,
+  "voiced": 2.37,
+  "sha256": "9054540712103c1298e65c4a60d47470d2a9e65b649d27e4e525c4a7cdd43ba3",
+  "input": {
+    "text": "The workmen sawed and hammered all day."
+  }
+}

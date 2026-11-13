@@ -1,0 +1,18 @@
+{
+  "key": "us:He's a night owl.",
+  "text": "He's a night owl.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "91993bd89ddf64dba21a4ef893a5f2a4bb78e13128876236a5f10191cd4e4309",
+  "mp3": "完整课件资源/chirp3-us/91993bd89ddf64dba21a4ef8.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.770042,
+  "voiced": 1.04,
+  "sha256": "0d37eded94fd6113b697400227725d652b6199aa07702982824b070309dedeaa",
+  "input": {
+    "text": "He's a night owl."
+  }
+}

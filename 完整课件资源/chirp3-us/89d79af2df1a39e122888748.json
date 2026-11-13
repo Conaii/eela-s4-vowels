@@ -1,0 +1,18 @@
+{
+  "key": "us:mountain",
+  "text": "mountain",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "89d79af2df1a39e12288874831ecd782fb90ada7851977e8e9924d9e19bc3a54",
+  "mp3": "完整课件资源/chirp3-us/89d79af2df1a39e122888748.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.483833,
+  "voiced": 0.98,
+  "sha256": "4e24ea752f12fc9dc00e924d27c3f2b584e17160aff841c8562ba317726c93ed",
+  "input": {
+    "text": "mountain"
+  }
+}

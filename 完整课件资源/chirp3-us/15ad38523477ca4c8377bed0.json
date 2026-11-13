@@ -1,0 +1,18 @@
+{
+  "key": "us:Pack the bag in the back of the taxi.",
+  "text": "Pack the bag in the back of the taxi.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "15ad38523477ca4c8377bed0c4571a579d316d254e1dc736738b452707efe652",
+  "mp3": "完整课件资源/chirp3-us/15ad38523477ca4c8377bed0.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.848875,
+  "voiced": 2.35,
+  "sha256": "07b0eb82f1233a1cb9144e3d3ec146c59886d9cd4ee7fc9397ea99a7a3e3b10b",
+  "input": {
+    "text": "Pack the bag in the back of the taxi."
+  }
+}

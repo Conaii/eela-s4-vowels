@@ -1,0 +1,19 @@
+{
+  "key": "uk:thought",
+  "text": "thought",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "eb24b45ebf5e832f096935bcbbd4dd54749a022c64c6fef914bf2ceb74f7e7bb",
+  "mp3": "完整课件资源/chirp3-uk/eb24b45ebf5e832f096935bc.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/eb24b45ebf5e832f096935bc.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.38375,
+  "voiced": 0.88,
+  "sha256": "b58a2040dae23a1d013bd7b82047a66f4b0093e911571149856d69ef28891b86",
+  "input": {
+    "text": "thought"
+  }
+}

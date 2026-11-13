@@ -1,0 +1,19 @@
+{
+  "key": "uk:food",
+  "text": "food",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "fc0e6ad8e59618ac4520c13e5b8027b34a53d8b56c5b556113e4b735aeb69715",
+  "mp3": "完整课件资源/chirp3-uk/fc0e6ad8e59618ac4520c13e.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/fc0e6ad8e59618ac4520c13e.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.248,
+  "voiced": 0.71,
+  "sha256": "7143837d6525e0cc9390b3586a0304a6316c87d52075c89b767c45394fa12426",
+  "input": {
+    "text": "food"
+  }
+}

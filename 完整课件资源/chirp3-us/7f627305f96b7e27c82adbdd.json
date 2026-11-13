@@ -1,0 +1,18 @@
+{
+  "key": "us:They can't have children.",
+  "text": "They can't have children.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "7f627305f96b7e27c82adbdd74482297293aaab66897e1ceccc680d2b2748948",
+  "mp3": "完整课件资源/chirp3-us/7f627305f96b7e27c82adbdd.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.435125,
+  "voiced": 1.77,
+  "sha256": "c37e47f8ce84030b382d0775982d6c9a315a58274aeafe3bb0f952ff15af2b1d",
+  "input": {
+    "text": "They can't have children."
+  }
+}

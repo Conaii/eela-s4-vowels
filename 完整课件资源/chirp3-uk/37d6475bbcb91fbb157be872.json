@@ -1,0 +1,19 @@
+{
+  "key": "uk:There is no doubt about it.",
+  "text": "There is no doubt about it.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "37d6475bbcb91fbb157be87264762e0e4934f90e35def3d7f6445f911c2f1187",
+  "mp3": "完整课件资源/chirp3-uk/37d6475bbcb91fbb157be872.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/37d6475bbcb91fbb157be872.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.113958,
+  "voiced": 1.6,
+  "sha256": "f72e48444e9df1a6bcbefa5b3365fb0cdb9f8646e31aed416cb4adcd502fc30e",
+  "input": {
+    "text": "There is no doubt about it."
+  }
+}

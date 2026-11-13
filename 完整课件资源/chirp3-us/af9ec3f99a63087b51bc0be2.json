@@ -1,0 +1,18 @@
+{
+  "key": "us:Where do you live?",
+  "text": "Where do you live?",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "af9ec3f99a63087b51bc0be2dc4ebb93f9ee00256368c3b29a476799b2f2edc5",
+  "mp3": "完整课件资源/chirp3-us/af9ec3f99a63087b51bc0be2.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.30125,
+  "voiced": 1.8,
+  "sha256": "75db5f5ec17797730eb52237dd4e5c9630aeeb1548e95de7c004bc189b822404",
+  "input": {
+    "text": "Where do you live?"
+  }
+}

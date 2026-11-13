@@ -1,0 +1,18 @@
+{
+  "key": "us:zip",
+  "text": "zip",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "551a0583058e70c556ddc7e9f691af8db246b5291ea058f30f044f99e8813020",
+  "mp3": "完整课件资源/chirp3-us/551a0583058e70c556ddc7e9.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.033958,
+  "voiced": 0.54,
+  "sha256": "75dba75c25a56437e04c2c34de64ed9c93742fd229365718a57a6f5d7b097150",
+  "input": {
+    "text": "zip"
+  }
+}

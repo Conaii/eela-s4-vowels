@@ -1,0 +1,18 @@
+{
+  "key": "us:There is no doubt about it.",
+  "text": "There is no doubt about it.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "2a16c180e3161684f062879cf2b85f622829011afafd8efb0a10c8b273d119b4",
+  "mp3": "完整课件资源/chirp3-us/2a16c180e3161684f062879c.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.563875,
+  "voiced": 2.07,
+  "sha256": "277ec992c84cc2512b6a609493df8274ece50fa8aac9625c6e8499b6b82511d2",
+  "input": {
+    "text": "There is no doubt about it."
+  }
+}

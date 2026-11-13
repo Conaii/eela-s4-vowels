@@ -1,0 +1,19 @@
+{
+  "key": "uk:Business is business.",
+  "text": "Business is business.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "a431f2f807c7b1976b8a951485fc96a72ccdd2da9600956d42bbd3b785d4c9ff",
+  "mp3": "完整课件资源/chirp3-uk/a431f2f807c7b1976b8a9514.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/a431f2f807c7b1976b8a9514.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.216458,
+  "voiced": 1.71,
+  "sha256": "674cc2f13d56f50028348f6d732081abcd2d83f596e48e17aaee849096f12068",
+  "input": {
+    "text": "Business is business."
+  }
+}

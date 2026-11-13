@@ -1,0 +1,19 @@
+{
+  "key": "uk:cook",
+  "text": "cook",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "a53a274e51a5a79907009aba02c874581433bb12bdd90af0cb32c5efda105fab",
+  "mp3": "完整课件资源/chirp3-uk/a53a274e51a5a79907009aba.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/a53a274e51a5a79907009aba.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.033958,
+  "voiced": 0.54,
+  "sha256": "29e98ec8e1c314bc4e802e04db07b55ae1e7e37d06cfe76cd1ccabc366951c13",
+  "input": {
+    "text": "cook"
+  }
+}

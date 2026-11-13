@@ -1,0 +1,18 @@
+{
+  "key": "us:fool",
+  "text": "fool",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "9c280330242ebb535e21564e67b54bfd978fc1be15320f0df58dac7c6c9c588a",
+  "mp3": "完整课件资源/chirp3-us/9c280330242ebb535e21564e.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.021875,
+  "voiced": 0.52,
+  "sha256": "bf99872419a81ae6c11041bcf335c5aac89262ffb15657375b301b0a217d595a",
+  "input": {
+    "text": "fool"
+  }
+}

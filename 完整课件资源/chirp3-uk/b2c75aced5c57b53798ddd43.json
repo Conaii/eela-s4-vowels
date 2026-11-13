@@ -1,0 +1,19 @@
+{
+  "key": "uk:I can't see your face.",
+  "text": "I can't see your face.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "b2c75aced5c57b53798ddd4318295db4974ddf84f9c17f2491ad60154835400a",
+  "mp3": "完整课件资源/chirp3-uk/b2c75aced5c57b53798ddd43.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/b2c75aced5c57b53798ddd43.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.997875,
+  "voiced": 1.49,
+  "sha256": "f28a9e44a78c6ed827b996e67c2b9c388ce39fff0f6ca0d1b99e5eac5d9df22d",
+  "input": {
+    "text": "I can't see your face."
+  }
+}

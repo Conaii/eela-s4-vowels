@@ -1,0 +1,19 @@
+{
+  "key": "uk:This is so good.",
+  "text": "This is so good.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "0668d8eced32c21a3f6d746e78ffd51c34d7f0ed6cb639b3e917910f9f905ad7",
+  "mp3": "完整课件资源/chirp3-uk/0668d8eced32c21a3f6d746e.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/0668d8eced32c21a3f6d746e.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.663583,
+  "voiced": 1.17,
+  "sha256": "9f38b5024dbe174f3186290e9cab35bd1537c1e40b7814b97f59977ad5cae1ed",
+  "input": {
+    "text": "This is so good."
+  }
+}

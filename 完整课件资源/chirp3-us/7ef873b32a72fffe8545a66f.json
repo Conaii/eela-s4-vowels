@@ -1,0 +1,18 @@
+{
+  "key": "us:The weather is good, so we should cook something from the book.",
+  "text": "The weather is good, so we should cook something from the book.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "7ef873b32a72fffe8545a66fcfac44ac3111ac8b58ae27f89eab422a54925f9b",
+  "mp3": "完整课件资源/chirp3-us/7ef873b32a72fffe8545a66f.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 4.093875,
+  "voiced": 3.6,
+  "sha256": "7af5e7af3edc63871ea50adb4e452559565f36d362e02ec0f634d47f3f1332b3",
+  "input": {
+    "text": "The weather is good, so we should cook something from the book."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "key": "uk:live",
+  "text": "live",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "bff15482096467964a8755b20271b937f2d0bb4cb0fbe878a6cf728d94bb4dfb",
+  "mp3": "完整课件资源/chirp3-uk/bff15482096467964a8755b2.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/bff15482096467964a8755b2.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.187542,
+  "voiced": 0.67,
+  "sha256": "9e8e27a2ddb9dd7989da8b4febbba7016e6426581101d7c6b3e267a0a6db63ac",
+  "input": {
+    "ssml": "<speak><phoneme alphabet=\"ipa\" ph=\"lɪv\">live</phoneme></speak>"
+  }
+}

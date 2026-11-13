@@ -1,0 +1,18 @@
+{
+  "key": "us:I'll catch you later.",
+  "text": "I'll catch you later.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "dcc0c9b331c17ce08c37a7eb3f22a0aea9eccb140fcec36b7919ba510490ae9b",
+  "mp3": "完整课件资源/chirp3-us/dcc0c9b331c17ce08c37a7eb.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.855958,
+  "voiced": 1.27,
+  "sha256": "6a551549ac3a93a8107c5729f7af5df92f0ccdc637faeefc2e89a34f5c007900",
+  "input": {
+    "text": "I'll catch you later."
+  }
+}

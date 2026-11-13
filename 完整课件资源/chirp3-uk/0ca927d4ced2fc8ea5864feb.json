@@ -1,0 +1,19 @@
+{
+  "key": "uk:The food is good.",
+  "text": "The food is good.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "0ca927d4ced2fc8ea5864feb4796757aec63bb2c8225b58710ab7f3bfd19b351",
+  "mp3": "完整课件资源/chirp3-uk/0ca927d4ced2fc8ea5864feb.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/0ca927d4ced2fc8ea5864feb.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.805833,
+  "voiced": 1.31,
+  "sha256": "d3bdc02f6959fbb79bd9d7fda51f164c7db877fd52c1d4f7572bc8d21d7a0e56",
+  "input": {
+    "text": "The food is good."
+  }
+}

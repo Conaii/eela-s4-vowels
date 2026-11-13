@@ -1,0 +1,18 @@
+{
+  "key": "us:I now pronounce you man and wife.",
+  "text": "I now pronounce you man and wife.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "3978e88d507a3dee53e6237d53937b8d8428eda4830640882508a030c01948c0",
+  "mp3": "完整课件资源/chirp3-us/3978e88d507a3dee53e6237d.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 3.613583,
+  "voiced": 3.05,
+  "sha256": "130f980cf472764d11aa634ad088e83eea310f50ac42f766ff5d3ad676040ccc",
+  "input": {
+    "text": "I now pronounce you man and wife."
+  }
+}

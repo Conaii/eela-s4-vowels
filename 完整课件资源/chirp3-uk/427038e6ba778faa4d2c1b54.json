@@ -1,0 +1,19 @@
+{
+  "key": "uk:makes",
+  "text": "makes",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "427038e6ba778faa4d2c1b54596305bf0b3b303eaf18cca46af1bfea75e21a51",
+  "mp3": "完整课件资源/chirp3-uk/427038e6ba778faa4d2c1b54.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/427038e6ba778faa4d2c1b54.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.273958,
+  "voiced": 0.66,
+  "sha256": "452c76ccb8fdd0a9cc60fd0cbc91f72c3fbc7212efb11bdd249d55f8e2db71c6",
+  "input": {
+    "text": "makes"
+  }
+}

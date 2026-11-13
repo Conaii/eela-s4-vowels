@@ -1,0 +1,19 @@
+{
+  "key": "uk:hair",
+  "text": "hair",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "cca98304ebafdc6e83b6f3eb48f117a9d7a4ed9b881e72e41f522886ca786520",
+  "mp3": "完整课件资源/chirp3-uk/cca98304ebafdc6e83b6f3eb.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/cca98304ebafdc6e83b6f3eb.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.172,
+  "voiced": 0.63,
+  "sha256": "42bad60f531c8d79d3b3e503f9005f719b17c2bdba656fa8d4ff62ca06efcec6",
+  "input": {
+    "text": "hair"
+  }
+}

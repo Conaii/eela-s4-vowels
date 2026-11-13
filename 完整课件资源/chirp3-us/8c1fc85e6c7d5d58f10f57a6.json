@@ -1,0 +1,18 @@
+{
+  "key": "us:murder",
+  "text": "murder",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "8c1fc85e6c7d5d58f10f57a688ce8e629ffb160d042a16047435051738467a43",
+  "mp3": "完整课件资源/chirp3-us/8c1fc85e6c7d5d58f10f57a6.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.291375,
+  "voiced": 0.8,
+  "sha256": "d15c63c466c1a2d4cf46adf2feff359dc4624fabc9d6b07d48c369fd5ea3641d",
+  "input": {
+    "text": "murder"
+  }
+}

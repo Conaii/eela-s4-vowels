@@ -1,0 +1,19 @@
+{
+  "key": "uk:I'll catch you later.",
+  "text": "I'll catch you later.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "83b18edc54b66fcf62ed5139618b4a217f4c8d3c7ff94532af32587688fbf09f",
+  "mp3": "完整课件资源/chirp3-uk/83b18edc54b66fcf62ed5139.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/83b18edc54b66fcf62ed5139.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.734292,
+  "voiced": 1.22,
+  "sha256": "c6a1bdf95e476a103910719ebfcbec7d39dd6bccedc35e2f70a7bd25bcb19ae6",
+  "input": {
+    "text": "I'll catch you later."
+  }
+}

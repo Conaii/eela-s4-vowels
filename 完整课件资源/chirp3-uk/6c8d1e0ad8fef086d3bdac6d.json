@@ -1,0 +1,19 @@
+{
+  "key": "uk:I was a good writer.",
+  "text": "I was a good writer.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "6c8d1e0ad8fef086d3bdac6d87ad9c7136e768636a477a968a8ee7be58c075e7",
+  "mp3": "完整课件资源/chirp3-uk/6c8d1e0ad8fef086d3bdac6d.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/6c8d1e0ad8fef086d3bdac6d.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.143875,
+  "voiced": 1.63,
+  "sha256": "4ad111da775cd72890e6ebedbe65bd7b0afe02178eaf44def472095916a9227c",
+  "input": {
+    "text": "I was a good writer."
+  }
+}

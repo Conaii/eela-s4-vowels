@@ -1,0 +1,18 @@
+{
+  "key": "us:We are very sad to hear that you are leaving.",
+  "text": "We are very sad to hear that you are leaving.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "79f4ad3d7ef90d0fed15beee1e8b1282ac8fbadcff6c0dd53832d3f006d501ff",
+  "mp3": "完整课件资源/chirp3-us/79f4ad3d7ef90d0fed15beee.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.893792,
+  "voiced": 2.4,
+  "sha256": "ccc4eeba27c757ea20d76428365f06705f3853d263c8038a13bd4f9a851dfe7b",
+  "input": {
+    "text": "We are very sad to hear that you are leaving."
+  }
+}

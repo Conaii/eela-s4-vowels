@@ -1,0 +1,19 @@
+{
+  "key": "uk:He has never been abroad.",
+  "text": "He has never been abroad.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "48b79e6699bbe51ed6f5905a9f6f701e733fd6191c8c6a9d3947e7af5a0a45c5",
+  "mp3": "完整课件资源/chirp3-uk/48b79e6699bbe51ed6f5905a.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/48b79e6699bbe51ed6f5905a.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.062208,
+  "voiced": 1.57,
+  "sha256": "eac1930116fcf7359c643e4ff99c721b93c6050749b9f5090fda5925f6c093dd",
+  "input": {
+    "text": "He has never been abroad."
+  }
+}

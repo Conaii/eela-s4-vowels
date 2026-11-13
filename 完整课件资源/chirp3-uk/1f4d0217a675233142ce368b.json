@@ -1,0 +1,19 @@
+{
+  "key": "uk:sheep",
+  "text": "sheep",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "1f4d0217a675233142ce368b78111cd9ee916b1d55cc49423ab2996603f97638",
+  "mp3": "完整课件资源/chirp3-uk/1f4d0217a675233142ce368b.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/1f4d0217a675233142ce368b.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.273958,
+  "voiced": 0.77,
+  "sha256": "f09ce7ca586eb15e4d57cff03fabfa8d343adfbcce436ee507ee31009672543f",
+  "input": {
+    "text": "sheep"
+  }
+}

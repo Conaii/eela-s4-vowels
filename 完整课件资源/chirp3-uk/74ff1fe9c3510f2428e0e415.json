@@ -1,0 +1,19 @@
+{
+  "key": "uk:rider",
+  "text": "rider",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "74ff1fe9c3510f2428e0e415e945419a3d7096a414dbfafaec1943c7c623a050",
+  "mp3": "完整课件资源/chirp3-uk/74ff1fe9c3510f2428e0e415.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/74ff1fe9c3510f2428e0e415.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.209333,
+  "voiced": 0.69,
+  "sha256": "2f4840ee20aaed7ad4340c487bdc71c31ffd954db5bb37da6f8e0dfad1301206",
+  "input": {
+    "text": "rider"
+  }
+}

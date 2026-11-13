@@ -1,0 +1,18 @@
+{
+  "key": "us:It’s about a bus.",
+  "text": "It’s about a bus.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "39d6a5897e3dce56432c8234d52b7a24e4fdff3f33d867a615059e8b7870fe05",
+  "mp3": "完整课件资源/chirp3-us/39d6a5897e3dce56432c8234.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.564667,
+  "voiced": 1.93,
+  "sha256": "8e9078152abbd7e23e725db6f86e5b0ad77689c429044d9901fc1be23094910f",
+  "input": {
+    "text": "It’s about a bus."
+  }
+}

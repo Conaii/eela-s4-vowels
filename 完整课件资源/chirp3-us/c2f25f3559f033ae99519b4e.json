@@ -1,0 +1,18 @@
+{
+  "key": "us:They decided to call the baby Mark.",
+  "text": "They decided to call the baby Mark.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "c2f25f3559f033ae99519b4e81a846816716cb7d32f18008c1a741aa98bf13ec",
+  "mp3": "完整课件资源/chirp3-us/c2f25f3559f033ae99519b4e.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.941542,
+  "voiced": 2.45,
+  "sha256": "93bb85f0631bc663159347eeafc7618eda05af2492551424d4d4b11003044e8a",
+  "input": {
+    "text": "They decided to call the baby Mark."
+  }
+}

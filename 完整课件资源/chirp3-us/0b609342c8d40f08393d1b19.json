@@ -1,0 +1,18 @@
+{
+  "key": "us:cake",
+  "text": "cake",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "0b609342c8d40f08393d1b190b79ef2a310d43de0439df0a618d3b27e7945d7b",
+  "mp3": "完整课件资源/chirp3-us/0b609342c8d40f08393d1b19.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.648125,
+  "voiced": 1.1,
+  "sha256": "02fb96261562bc508ece732c0ff08d3b4333dad27c4e03a77cbc41ea2eb80c1e",
+  "input": {
+    "text": "cake"
+  }
+}

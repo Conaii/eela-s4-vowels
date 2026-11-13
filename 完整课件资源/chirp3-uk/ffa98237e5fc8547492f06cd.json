@@ -1,0 +1,19 @@
+{
+  "key": "uk:bolt",
+  "text": "bolt",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "ffa98237e5fc8547492f06cdaa5dfa68d92f9c1a9f3b3b2150b995ec6f066a8d",
+  "mp3": "完整课件资源/chirp3-uk/ffa98237e5fc8547492f06cd.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/ffa98237e5fc8547492f06cd.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.324917,
+  "voiced": 0.79,
+  "sha256": "f610426fdac38c6b3f3480305fce71e053fb62e3cf286bc9359f7ec3bb0b6033",
+  "input": {
+    "text": "bolt"
+  }
+}

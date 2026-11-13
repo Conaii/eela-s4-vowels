@@ -1,0 +1,19 @@
+{
+  "key": "uk:sieve",
+  "text": "sieve",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "fe0e91bd2e5aae32ecdca5e72414bc90ea6ede18887a021804671c9fa7ade470",
+  "mp3": "完整课件资源/chirp3-uk/fe0e91bd2e5aae32ecdca5e7.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/fe0e91bd2e5aae32ecdca5e7.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.141833,
+  "voiced": 0.62,
+  "sha256": "73a9db734df3f544c1d04ac9bab77e62f2040176c90601c0e1062c3dae29e8e7",
+  "input": {
+    "text": "sieve"
+  }
+}

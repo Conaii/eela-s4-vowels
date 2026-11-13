@@ -1,0 +1,18 @@
+{
+  "key": "us:The bus is under the bridge.",
+  "text": "The bus is under the bridge.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "46518d26f8b09a71798e3d88a2dc15ff445a9c443ff63dde52470595862bd779",
+  "mp3": "完整课件资源/chirp3-us/46518d26f8b09a71798e3d88.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.427125,
+  "voiced": 1.93,
+  "sha256": "0e30f201a19ee1126cc5809f20f21206f8fd0e3e2f5d3c2d3154af87f22ede11",
+  "input": {
+    "text": "The bus is under the bridge."
+  }
+}

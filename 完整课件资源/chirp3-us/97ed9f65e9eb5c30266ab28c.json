@@ -1,0 +1,18 @@
+{
+  "key": "us:Come to the New Year disco and bring your partner!",
+  "text": "Come to the New Year disco and bring your partner!",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "97ed9f65e9eb5c30266ab28cc159921b403eb65b0b5a3600b68f5974f3d8a8e5",
+  "mp3": "完整课件资源/chirp3-us/97ed9f65e9eb5c30266ab28c.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.872458,
+  "voiced": 2.38,
+  "sha256": "aca595d899d737528f5501c3ca6e57ca1ce149be868299fe2783ba36595a8868",
+  "input": {
+    "text": "Come to the New Year disco and bring your partner!"
+  }
+}

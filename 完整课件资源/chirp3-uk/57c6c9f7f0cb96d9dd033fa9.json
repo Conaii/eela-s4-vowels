@@ -1,0 +1,19 @@
+{
+  "key": "uk:shit",
+  "text": "shit",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "57c6c9f7f0cb96d9dd033fa907075406074e8efaf19dd27d1382619676c9cb84",
+  "mp3": "完整课件资源/chirp3-uk/57c6c9f7f0cb96d9dd033fa9.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/57c6c9f7f0cb96d9dd033fa9.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.033958,
+  "voiced": 0.48,
+  "sha256": "3cf906376e8863e3dd179b29f48e62e7070239eaf53576ccce37a9865308a2be",
+  "input": {
+    "text": "shit"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "key": "uk:Does it fit?",
+  "text": "Does it fit?",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "c20bd5ba52fd277a8194cfd71e7b83da751eeae5a7a1ac9db7ce179c63a01618",
+  "mp3": "完整课件资源/chirp3-uk/c20bd5ba52fd277a8194cfd7.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/c20bd5ba52fd277a8194cfd7.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.850042,
+  "voiced": 1.31,
+  "sha256": "fc3a917dfca15ccad27e5240a01ba6744aac60267f41f072e5c1a1837aa0b9b9",
+  "input": {
+    "text": "Does it fit?"
+  }
+}

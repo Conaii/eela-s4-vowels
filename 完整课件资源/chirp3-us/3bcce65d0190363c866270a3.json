@@ -1,0 +1,18 @@
+{
+  "key": "us:water",
+  "text": "water",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "3bcce65d0190363c866270a3b24cf8a49d5e855128b41f1427425c19ca968cc4",
+  "mp3": "完整课件资源/chirp3-us/3bcce65d0190363c866270a3.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.396333,
+  "voiced": 1.75,
+  "sha256": "1bf0fe2c064a28f66a3d988887f7da19750cb45cfba16617e918519ac269dc02",
+  "input": {
+    "text": "water"
+  }
+}

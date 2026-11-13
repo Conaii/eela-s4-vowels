@@ -1,0 +1,18 @@
+{
+  "key": "us:Better late than never.",
+  "text": "Better late than never.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "fc9ca610943210df07e7cdc5808895036377bfa07da42137d659de44d0c3c6c0",
+  "mp3": "完整课件资源/chirp3-us/fc9ca610943210df07e7cdc5.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.407375,
+  "voiced": 1.82,
+  "sha256": "dce110ecda8505824bccb3d0a6d810e2a2091bd5ea22eaa07afc015ec610a829",
+  "input": {
+    "text": "Better late than never."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "key": "us:This is so good.",
+  "text": "This is so good.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "8d9451101772599f938b267311734f10ae0633e4e486c78946dac19e2ff5b892",
+  "mp3": "完整课件资源/chirp3-us/8d9451101772599f938b2673.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.603458,
+  "voiced": 1.09,
+  "sha256": "f23f89308486379923ebfbccedd9841ec3018b171dbd5ddfc424a8163fb596d7",
+  "input": {
+    "text": "This is so good."
+  }
+}

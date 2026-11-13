@@ -1,0 +1,19 @@
+{
+  "key": "uk:We should cook something from the book.",
+  "text": "We should cook something from the book.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "ccd20431974fffab7106923ba172c2463223d102994374f54dc828b4f7873711",
+  "mp3": "完整课件资源/chirp3-uk/ccd20431974fffab7106923b.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/ccd20431974fffab7106923b.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.353958,
+  "voiced": 1.85,
+  "sha256": "261d35b8e3b0150e65bd9241ea5c248831191afbd0300cbd7ffcda5d4a34ec23",
+  "input": {
+    "text": "We should cook something from the book."
+  }
+}

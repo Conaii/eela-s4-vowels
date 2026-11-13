@@ -1,0 +1,18 @@
+{
+  "key": "us:He has never been abroad.",
+  "text": "He has never been abroad.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "88351afd101f828af1597860d6e9d1b0b739d019e0840df3460b91c9ac28ea48",
+  "mp3": "完整课件资源/chirp3-us/88351afd101f828af1597860.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 3.079208,
+  "voiced": 2.53,
+  "sha256": "a7f270dbee278ade7a064ad9067604257ac52deca3c8374cba0ff96c2f73e818",
+  "input": {
+    "text": "He has never been abroad."
+  }
+}

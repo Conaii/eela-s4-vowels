@@ -1,0 +1,18 @@
+{
+  "key": "us:It was hot and getting hotter.",
+  "text": "It was hot and getting hotter.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "c7fa22bc110ef777d2eaa5c24e13e2eb994cdf76af9de058e17d79053cbd4f44",
+  "mp3": "完整课件资源/chirp3-us/c7fa22bc110ef777d2eaa5c2.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.447833,
+  "voiced": 1.95,
+  "sha256": "333ad9ba3799434d2307ba5a1c026f0180624a8c943e480199cf9509f0099f77",
+  "input": {
+    "text": "It was hot and getting hotter."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "key": "uk:I was a good rider.",
+  "text": "I was a good rider.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "43450fd2134e639f7206bb501f41f09741cbede9a8e8312736d88d00a90c9cd4",
+  "mp3": "完整课件资源/chirp3-uk/43450fd2134e639f7206bb50.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/43450fd2134e639f7206bb50.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.903417,
+  "voiced": 1.38,
+  "sha256": "b635baef45b7c8e488a4a4084d6130ae27ce4472a9e26790fe5829871cd2f7a9",
+  "input": {
+    "text": "I was a good rider."
+  }
+}

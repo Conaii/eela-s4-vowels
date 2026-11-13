@@ -1,0 +1,19 @@
+{
+  "key": "uk:He's very like her father.",
+  "text": "He's very like her father.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "56f89eaa7f9cc8ef71ffd6926828dac09011257472cbb96f06ab994a510faba7",
+  "mp3": "完整课件资源/chirp3-uk/56f89eaa7f9cc8ef71ffd692.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/56f89eaa7f9cc8ef71ffd692.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.443625,
+  "voiced": 1.95,
+  "sha256": "4f4f7bf8e3585d20de44417dade723727efbcae5df906a208aaa3f79974601f5",
+  "input": {
+    "text": "He's very like her father."
+  }
+}

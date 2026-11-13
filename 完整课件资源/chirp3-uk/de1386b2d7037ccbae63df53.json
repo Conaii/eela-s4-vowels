@@ -1,0 +1,19 @@
+{
+  "key": "uk:this",
+  "text": "this",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "de1386b2d7037ccbae63df53ac054606071dff304e18868ec256a68dccb6d0bd",
+  "mp3": "完整课件资源/chirp3-uk/de1386b2d7037ccbae63df53.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/de1386b2d7037ccbae63df53.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.195083,
+  "voiced": 0.7,
+  "sha256": "4d7608860af0aeb81b4c524e2e018908fd7027bae0c69c8a496dd76bc0241c95",
+  "input": {
+    "text": "this"
+  }
+}

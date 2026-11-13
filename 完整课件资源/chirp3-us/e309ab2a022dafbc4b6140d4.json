@@ -1,0 +1,18 @@
+{
+  "key": "us:Do Americans have an accent?",
+  "text": "Do Americans have an accent?",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "e309ab2a022dafbc4b6140d40bfed52d433977cdc2a3f4b42dc33e04dad7e807",
+  "mp3": "完整课件资源/chirp3-us/e309ab2a022dafbc4b6140d4.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 3.601958,
+  "voiced": 2.98,
+  "sha256": "a7eda2097f37465b96420727a5a5a5fbf1d11a4fe4632ab774a3fc6ff09fc13c",
+  "input": {
+    "text": "Do Americans have an accent?"
+  }
+}

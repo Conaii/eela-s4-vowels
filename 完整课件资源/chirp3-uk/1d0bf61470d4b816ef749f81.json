@@ -1,0 +1,19 @@
+{
+  "key": "uk:call",
+  "text": "call",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "1d0bf61470d4b816ef749f816f4a59751f7bf5bba8515e6d1a08eb00ac6bff8d",
+  "mp3": "完整课件资源/chirp3-uk/1d0bf61470d4b816ef749f81.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/1d0bf61470d4b816ef749f81.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.046292,
+  "voiced": 0.55,
+  "sha256": "b8b897cae5fefc63724e3ff1ac29858f2a257237d440ba3c0f26a12797d452e1",
+  "input": {
+    "text": "call"
+  }
+}

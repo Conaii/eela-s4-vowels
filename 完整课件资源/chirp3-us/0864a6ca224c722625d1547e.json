@@ -1,0 +1,18 @@
+{
+  "key": "us:bat",
+  "text": "bat",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "0864a6ca224c722625d1547eb2a42bc7b460c243333cf5aa2378fa9d6cce9ecf",
+  "mp3": "完整课件资源/chirp3-us/0864a6ca224c722625d1547e.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.087833,
+  "voiced": 0.59,
+  "sha256": "2a4b1f55255471963121772d119239fde698fec10cb04623a38d4c7d417b87b0",
+  "input": {
+    "text": "bat"
+  }
+}

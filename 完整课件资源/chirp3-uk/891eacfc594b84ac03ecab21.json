@@ -1,0 +1,19 @@
+{
+  "key": "uk:moon",
+  "text": "moon",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "891eacfc594b84ac03ecab212a30847c77b2eccf7ec44579a11d283be599b41e",
+  "mp3": "完整课件资源/chirp3-uk/891eacfc594b84ac03ecab21.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/891eacfc594b84ac03ecab21.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.185833,
+  "voiced": 0.69,
+  "sha256": "7063b2190516e0f478c812c17fa491998da23019703602b28489c89a17980fdf",
+  "input": {
+    "text": "moon"
+  }
+}

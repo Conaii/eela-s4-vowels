@@ -1,0 +1,19 @@
+{
+  "key": "uk:busy",
+  "text": "busy",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "9e204afc87d87173afbb0d3ddd7a428f7291076cbbb39beff0ca5ef0a4c5ce76",
+  "mp3": "完整课件资源/chirp3-uk/9e204afc87d87173afbb0d3d.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/9e204afc87d87173afbb0d3d.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.289208,
+  "voiced": 0.76,
+  "sha256": "8caaeecf6fe3e9c6c753564e2f63e1201e954283b304b1434cd788fc3cd2e3a8",
+  "input": {
+    "text": "busy"
+  }
+}

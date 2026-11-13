@@ -1,0 +1,18 @@
+{
+  "key": "us:We should cook something from the book.",
+  "text": "We should cook something from the book.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "944d39f28ea91e04423a213336cddf4fa2793db2d3ce91378ca48529aaf5d55d",
+  "mp3": "完整课件资源/chirp3-us/944d39f28ea91e04423a2133.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 3.757083,
+  "voiced": 3.01,
+  "sha256": "3bd48bdfa2bfaa5443588415ea8f6234fbdb36e9fd9f55cc75bef5699db5f1dc",
+  "input": {
+    "text": "We should cook something from the book."
+  }
+}

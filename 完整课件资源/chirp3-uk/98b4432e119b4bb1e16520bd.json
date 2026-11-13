@@ -1,0 +1,19 @@
+{
+  "key": "uk:No pain, no gain.",
+  "text": "No pain, no gain.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "98b4432e119b4bb1e16520bdaa15a59dae31b43a6727cbd84420b6bd698953a2",
+  "mp3": "完整课件资源/chirp3-uk/98b4432e119b4bb1e16520bd.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/98b4432e119b4bb1e16520bd.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.648875,
+  "voiced": 2.15,
+  "sha256": "ff4104ee95f5cdfd946a474caa0ee28b329101195528ba3db4e4d3f7571d0d0e",
+  "input": {
+    "text": "No pain, no gain."
+  }
+}

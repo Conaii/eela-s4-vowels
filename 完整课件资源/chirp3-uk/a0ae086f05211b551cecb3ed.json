@@ -1,0 +1,19 @@
+{
+  "key": "uk:pain",
+  "text": "pain",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "a0ae086f05211b551cecb3edd2a97d4defbbfe753010c98225221419a09a0479",
+  "mp3": "完整课件资源/chirp3-uk/a0ae086f05211b551cecb3ed.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/a0ae086f05211b551cecb3ed.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.235042,
+  "voiced": 0.73,
+  "sha256": "44c8afdfd34a9d199e493ceb0a4e523a8262a41ed8dcad73c7ea0a39e14b2d30",
+  "input": {
+    "text": "pain"
+  }
+}

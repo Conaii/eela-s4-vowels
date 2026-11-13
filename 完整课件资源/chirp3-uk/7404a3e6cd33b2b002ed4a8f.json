@@ -1,0 +1,19 @@
+{
+  "key": "uk:baggage",
+  "text": "baggage",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "7404a3e6cd33b2b002ed4a8f74ea57ac6367d567e8fa396ef3ae88faa0cf1082",
+  "mp3": "完整课件资源/chirp3-uk/7404a3e6cd33b2b002ed4a8f.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/7404a3e6cd33b2b002ed4a8f.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.526875,
+  "voiced": 1.02,
+  "sha256": "ca8b432fb8883448f1d354c86e4b399de6db73ae515118e20f54d1d9b3eb7b8f",
+  "input": {
+    "text": "baggage"
+  }
+}

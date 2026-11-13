@@ -1,0 +1,19 @@
+{
+  "key": "uk:day",
+  "text": "day",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "d04a11b6a052981303fc6b514359cb5fa30dc5b8715576ee72bb5e67aff67ded",
+  "mp3": "完整课件资源/chirp3-uk/d04a11b6a052981303fc6b51.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/d04a11b6a052981303fc6b51.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 0.9335,
+  "voiced": 0.44,
+  "sha256": "f567b24e05e98af7448697c1f815c5af3e9feb266aa18db1eca336e4bc604796",
+  "input": {
+    "text": "day"
+  }
+}

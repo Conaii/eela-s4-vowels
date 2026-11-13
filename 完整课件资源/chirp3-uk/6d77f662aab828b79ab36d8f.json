@@ -1,0 +1,19 @@
+{
+  "key": "uk:book",
+  "text": "book",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "6d77f662aab828b79ab36d8f688912ce0245006979f7462e43c83ef40919bc40",
+  "mp3": "完整课件资源/chirp3-uk/6d77f662aab828b79ab36d8f.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/6d77f662aab828b79ab36d8f.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.089375,
+  "voiced": 0.57,
+  "sha256": "b865b32a1e4978f06f5c28209e9d3b511216ca864b317121073f35562bc4738e",
+  "input": {
+    "text": "book"
+  }
+}

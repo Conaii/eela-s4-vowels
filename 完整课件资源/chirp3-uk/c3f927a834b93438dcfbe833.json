@@ -1,0 +1,19 @@
+{
+  "key": "uk:We are very sad to hear that you are leaving.",
+  "text": "We are very sad to hear that you are leaving.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "c3f927a834b93438dcfbe833a801277164b005e78eeeabf0c18ccf23ea922b22",
+  "mp3": "完整课件资源/chirp3-uk/c3f927a834b93438dcfbe833.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/c3f927a834b93438dcfbe833.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 3.034542,
+  "voiced": 2.54,
+  "sha256": "d44d70095f04e9d4be69ebd90589c0e5b1dcb8c9a4c577749b5188775cdbda3e",
+  "input": {
+    "text": "We are very sad to hear that you are leaving."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "key": "uk:hate",
+  "text": "hate",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "18c22cfd4576ca12a40ed50362bfafd37d6dead404b6abba7afdb10132b8f628",
+  "mp3": "完整课件资源/chirp3-uk/18c22cfd4576ca12a40ed503.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/18c22cfd4576ca12a40ed503.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.154625,
+  "voiced": 0.66,
+  "sha256": "8de84df2a43b548a6e5d6205971818332d5ecf3b365cae83889db67113c14bdb",
+  "input": {
+    "text": "hate"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "key": "us:We're going to call her Sophie.",
+  "text": "We're going to call her Sophie.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "6ec3898628347aa5131bbe386bb7f38351e66d447532859836e3fba99b9574b2",
+  "mp3": "完整课件资源/chirp3-us/6ec3898628347aa5131bbe38.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.27675,
+  "voiced": 1.78,
+  "sha256": "1cc5645ebfb6b6c13764399a3f512e0189aca702b39d3850c2cf8e5331df510a",
+  "input": {
+    "text": "We're going to call her Sophie."
+  }
+}

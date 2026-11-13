@@ -1,0 +1,19 @@
+{
+  "key": "uk:teacher",
+  "text": "teacher",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "5d04e9e576186c92f7e9679c3380a9afa14c2c1f5116bc2bd1cacfee79f4dd8e",
+  "mp3": "完整课件资源/chirp3-uk/5d04e9e576186c92f7e9679c.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/5d04e9e576186c92f7e9679c.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.414792,
+  "voiced": 0.85,
+  "sha256": "5e09edd387ab6c323411436ce212fdea0207d85b0eb3e8e858b36b605444bc38",
+  "input": {
+    "text": "teacher"
+  }
+}

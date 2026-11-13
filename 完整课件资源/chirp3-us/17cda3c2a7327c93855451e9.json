@@ -1,0 +1,18 @@
+{
+  "key": "us:car park",
+  "text": "car park",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "17cda3c2a7327c93855451e9ce7bbee6f6fe4908a49d17ebd22db56ef1de33d6",
+  "mp3": "完整课件资源/chirp3-us/17cda3c2a7327c93855451e9.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.69775,
+  "voiced": 2.07,
+  "sha256": "797e732c8fd52f32f17d818996b580c29566b6f685d76a04dfb450c6195cbcc5",
+  "input": {
+    "text": "car park"
+  }
+}

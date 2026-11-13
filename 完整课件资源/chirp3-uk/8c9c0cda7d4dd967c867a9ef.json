@@ -1,0 +1,19 @@
+{
+  "key": "uk:They decided to call the baby Mark.",
+  "text": "They decided to call the baby Mark.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "8c9c0cda7d4dd967c867a9ef737db206196f097d6a011cafd10bf3478c31f46e",
+  "mp3": "完整课件资源/chirp3-uk/8c9c0cda7d4dd967c867a9ef.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/8c9c0cda7d4dd967c867a9ef.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.743667,
+  "voiced": 2.25,
+  "sha256": "a6bbf13c53726de180627cd059533b6b04ad1f58127807fd4ca3db85b22c8b8f",
+  "input": {
+    "text": "They decided to call the baby Mark."
+  }
+}

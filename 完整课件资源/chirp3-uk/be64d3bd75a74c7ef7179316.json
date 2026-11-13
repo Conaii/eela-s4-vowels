@@ -1,0 +1,19 @@
+{
+  "key": "uk:seat",
+  "text": "seat",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "be64d3bd75a74c7ef7179316156767e8352ae01c2a37c9c961ccc5550950b40d",
+  "mp3": "完整课件资源/chirp3-uk/be64d3bd75a74c7ef7179316.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/be64d3bd75a74c7ef7179316.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.219042,
+  "voiced": 0.67,
+  "sha256": "9da826478c63b19a4c71f15b654ce9d78a4de1104e1a2d19a1a1196b276667bf",
+  "input": {
+    "text": "seat"
+  }
+}

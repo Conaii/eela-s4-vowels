@@ -1,0 +1,19 @@
+{
+  "key": "uk:bitch",
+  "text": "bitch",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "450a5aaa144f1bb0346e3a69926f69aded897cc325215d29927abe53d7426a06",
+  "mp3": "完整课件资源/chirp3-uk/450a5aaa144f1bb0346e3a69.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/450a5aaa144f1bb0346e3a69.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.194375,
+  "voiced": 0.63,
+  "sha256": "8e7caf194a271e2146437e0697c6bdc935462dfa713d6c29d81435922d5cd7fa",
+  "input": {
+    "text": "bitch"
+  }
+}

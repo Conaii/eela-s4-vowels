@@ -1,0 +1,19 @@
+{
+  "key": "uk:leg",
+  "text": "leg",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "4111cce96ac73db9ee1fa279daf7dd4f75fc9748278f3c63381abf026a837b43",
+  "mp3": "完整课件资源/chirp3-uk/4111cce96ac73db9ee1fa279.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/4111cce96ac73db9ee1fa279.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.1395,
+  "voiced": 0.64,
+  "sha256": "84c8218bcee448fca39f636236c32a4dae4dde3b57de436a4f034a78c6afea44",
+  "input": {
+    "text": "leg"
+  }
+}

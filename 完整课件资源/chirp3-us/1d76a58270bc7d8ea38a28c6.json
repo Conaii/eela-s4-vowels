@@ -1,0 +1,18 @@
+{
+  "key": "us:baggage",
+  "text": "baggage",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "1d76a58270bc7d8ea38a28c67f661ecc275b6c34023be915be747538095645e7",
+  "mp3": "完整课件资源/chirp3-us/1d76a58270bc7d8ea38a28c6.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.489208,
+  "voiced": 1.99,
+  "sha256": "72a42086ccd7027753cad498cb54ab91a6471dcdf05fef03759cfb1fa8a33b68",
+  "input": {
+    "text": "baggage"
+  }
+}

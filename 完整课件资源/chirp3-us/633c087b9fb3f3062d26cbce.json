@@ -1,0 +1,18 @@
+{
+  "key": "us:I was a good writer.",
+  "text": "I was a good writer.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "633c087b9fb3f3062d26cbce5e5d4139cd76410149610081d44b9caa99224f73",
+  "mp3": "完整课件资源/chirp3-us/633c087b9fb3f3062d26cbce.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.947208,
+  "voiced": 1.45,
+  "sha256": "ce843c2a5eb27104c849594245aa60ce5c9aa5c7d2873a22ea7f8144e12b3d71",
+  "input": {
+    "text": "I was a good writer."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "key": "uk:It’s about a bus.",
+  "text": "It’s about a bus.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "92ffbfbd19ae1445bf9c18c4d736b16a0a5e530a557f38b4580fcb5b0aac3bf0",
+  "mp3": "完整课件资源/chirp3-uk/92ffbfbd19ae1445bf9c18c4.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/92ffbfbd19ae1445bf9c18c4.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.79525,
+  "voiced": 1.3,
+  "sha256": "f9c2d1fe4e1e838a476755673f528729bcb6e9538e1ca9c5932c996e7175c327",
+  "input": {
+    "text": "It’s about a bus."
+  }
+}

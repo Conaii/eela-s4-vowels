@@ -1,0 +1,19 @@
+{
+  "key": "uk:leave",
+  "text": "leave",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "63d7f1e29cbb7583064eb3ea6999ecf4065744e36116eefc9fc4f78eadbe2d7d",
+  "mp3": "完整课件资源/chirp3-uk/63d7f1e29cbb7583064eb3ea.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/63d7f1e29cbb7583064eb3ea.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.372792,
+  "voiced": 0.86,
+  "sha256": "31a8a40167387590876705891cfc5b002451249af2e793b9f26d72cea26b3e1c",
+  "input": {
+    "text": "leave"
+  }
+}

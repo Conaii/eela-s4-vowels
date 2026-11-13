@@ -1,0 +1,18 @@
+{
+  "key": "us:police",
+  "text": "police",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "6ecef0a9247befec29bcbdb53bc056c8c386fe1afc06edf2d8a6143cb882abf0",
+  "mp3": "完整课件资源/chirp3-us/6ecef0a9247befec29bcbdb5.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.327042,
+  "voiced": 1.79,
+  "sha256": "c0a07a299959673102a3484122fba9fcbcb25b721aca5db15f6b423ec36ca485",
+  "input": {
+    "text": "police"
+  }
+}

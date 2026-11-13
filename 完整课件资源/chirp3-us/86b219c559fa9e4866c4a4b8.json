@@ -1,0 +1,18 @@
+{
+  "key": "us:A pig falls into a big pit!",
+  "text": "A pig falls into a big pit!",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "86b219c559fa9e4866c4a4b8adfa5f87fa94fabeefc550a3316a5818f369de72",
+  "mp3": "完整课件资源/chirp3-us/86b219c559fa9e4866c4a4b8.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 3.748375,
+  "voiced": 3.22,
+  "sha256": "c8893e7f7f6a211a86cd070dbfc75d5aca5fb7b2a568c4fd183367303618119c",
+  "input": {
+    "text": "A pig falls into a big pit!"
+  }
+}

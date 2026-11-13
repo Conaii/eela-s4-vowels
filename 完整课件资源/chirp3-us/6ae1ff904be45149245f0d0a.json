@@ -1,0 +1,18 @@
+{
+  "key": "us:Willy asks if I've ever flown a kite before.",
+  "text": "Willy asks if I've ever flown a kite before.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "6ae1ff904be45149245f0d0acc18d886ec2f3f7ce431faad4a63e4a8a839f51d",
+  "mp3": "完整课件资源/chirp3-us/6ae1ff904be45149245f0d0a.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 3.553958,
+  "voiced": 3.05,
+  "sha256": "fa1e9a9e44d17e8060abb61b55e2b0ec4ff723dfa910081930a0048ff1e3f911",
+  "input": {
+    "text": "Willy asks if I've ever flown a kite before."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "key": "uk:Please see me in three weeks.",
+  "text": "Please see me in three weeks.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "ca2b37b796352a2317844bafd09095f26cadaa366d96d52785a2df2ffdb46970",
+  "mp3": "完整课件资源/chirp3-uk/ca2b37b796352a2317844baf.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/ca2b37b796352a2317844baf.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.210125,
+  "voiced": 1.68,
+  "sha256": "af48dfc16418404f0b224a11d6389242bfe7ff021fd4af9d33aebcfd217a783b",
+  "input": {
+    "text": "Please see me in three weeks."
+  }
+}

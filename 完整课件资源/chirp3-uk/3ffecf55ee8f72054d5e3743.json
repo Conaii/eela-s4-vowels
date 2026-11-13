@@ -1,0 +1,19 @@
+{
+  "key": "uk:The weather is good, so we should cook something from the book.",
+  "text": "The weather is good, so we should cook something from the book.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "3ffecf55ee8f72054d5e374319d0366cc64eef2560841505c29268659f40bbc1",
+  "mp3": "完整课件资源/chirp3-uk/3ffecf55ee8f72054d5e3743.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/3ffecf55ee8f72054d5e3743.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 3.872708,
+  "voiced": 3.37,
+  "sha256": "2cb3ea64f24ecf5ef8f6b247faba4cc98728bc43bd5fdb858e7c3274bbe19465",
+  "input": {
+    "text": "The weather is good, so we should cook something from the book."
+  }
+}

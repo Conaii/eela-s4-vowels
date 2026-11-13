@@ -1,0 +1,19 @@
+{
+  "key": "uk:The hotter the water, the better it is.",
+  "text": "The hotter the water, the better it is.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "6e28dc0709c9660c81523d6a4a7fb5633c2c016824565e773ec983f3594103f7",
+  "mp3": "完整课件资源/chirp3-uk/6e28dc0709c9660c81523d6a.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/6e28dc0709c9660c81523d6a.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 3.200458,
+  "voiced": 2.69,
+  "sha256": "3260b26cd88ff643e3dd3b077b12a134d4b99c560b9cd982bdace9d5e98925ef",
+  "input": {
+    "text": "The hotter the water, the better it is."
+  }
+}

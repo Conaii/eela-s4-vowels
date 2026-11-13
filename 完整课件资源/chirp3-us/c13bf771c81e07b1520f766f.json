@@ -1,0 +1,18 @@
+{
+  "key": "us:I’m going home.",
+  "text": "I’m going home.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "c13bf771c81e07b1520f766f9d96eb469890538bcac58f9475629a4575321438",
+  "mp3": "完整课件资源/chirp3-us/c13bf771c81e07b1520f766f.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.386792,
+  "voiced": 1.88,
+  "sha256": "7215ecf9f20c6fa0831910f44a7f544fe11a721937e9f1de7a5e3a1d1f2d9644",
+  "input": {
+    "text": "I’m going home."
+  }
+}

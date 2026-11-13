@@ -1,0 +1,19 @@
+{
+  "key": "uk:My father's in the car.",
+  "text": "My father's in the car.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "817fd8c13e2d398388b1b89b94643191ba9f0a7e04dd03df2a18733a666251c1",
+  "mp3": "完整课件资源/chirp3-uk/817fd8c13e2d398388b1b89b.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/817fd8c13e2d398388b1b89b.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.027625,
+  "voiced": 1.53,
+  "sha256": "6c89801846b3a8b51e42a76eebc444aae3ea40dc0811f64d21d8b4b9f54e5c75",
+  "input": {
+    "text": "My father's in the car."
+  }
+}

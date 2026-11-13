@@ -1,0 +1,18 @@
+{
+  "key": "us:bolt",
+  "text": "bolt",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "f3dc731eb95f9663bb3720f228a2b0ecaca0f59fa0834e5ffa793c80ae47db75",
+  "mp3": "完整课件资源/chirp3-us/f3dc731eb95f9663bb3720f2.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.460292,
+  "voiced": 0.96,
+  "sha256": "b17dde74ac6984fa04ce6d9afec374be5942dd77580ff3430cd63458f45d91f8",
+  "input": {
+    "text": "bolt"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "key": "uk:I’m going home.",
+  "text": "I’m going home.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "5ab88cd0b84454c1ef139b1d9f4d0580e9ea6d96aab6eca3b14e9392cc597ebe",
+  "mp3": "完整课件资源/chirp3-uk/5ab88cd0b84454c1ef139b1d.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/5ab88cd0b84454c1ef139b1d.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.329958,
+  "voiced": 1.48,
+  "sha256": "54f94d393ce7f3118b498ffb110b17ef88eccd5061ae51966bde5fd93207cc71",
+  "input": {
+    "text": "I’m going home."
+  }
+}

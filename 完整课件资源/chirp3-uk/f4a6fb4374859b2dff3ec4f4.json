@@ -1,0 +1,19 @@
+{
+  "key": "uk:flew",
+  "text": "flew",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "f4a6fb4374859b2dff3ec4f483611f21d46be982744e1ea3ec5dad30cc651eb1",
+  "mp3": "完整课件资源/chirp3-uk/f4a6fb4374859b2dff3ec4f4.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/f4a6fb4374859b2dff3ec4f4.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.377583,
+  "voiced": 0.85,
+  "sha256": "fbe370a4a22e2db73986f57a1ce51eaeb891884d4f87cdc2d1dacb3a7572f023",
+  "input": {
+    "text": "flew"
+  }
+}

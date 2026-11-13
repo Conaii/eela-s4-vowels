@@ -1,0 +1,19 @@
+{
+  "key": "uk:I hate you, mom!",
+  "text": "I hate you, mom!",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "27d67bc651bebc703ece834ad03dce383ff5e44c1e38261d0044c6ceae5946c9",
+  "mp3": "完整课件资源/chirp3-uk/27d67bc651bebc703ece834a.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/27d67bc651bebc703ece834a.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.589667,
+  "voiced": 1.06,
+  "sha256": "ad132551098d4b8614c392a3f1477af08ec53efc8f98466fbe5a60b5d20df03b",
+  "input": {
+    "text": "I hate you, mom!"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "key": "uk:mountain",
+  "text": "mountain",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "2d2ed4f4fbbd5312c6e7a7e57c13e198eb19d532ad2c28a9a0bdba335b90492d",
+  "mp3": "完整课件资源/chirp3-uk/2d2ed4f4fbbd5312c6e7a7e5.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/2d2ed4f4fbbd5312c6e7a7e5.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.47425,
+  "voiced": 0.98,
+  "sha256": "f2a5aeb68fc58006f52cf71585655b4c5197276182e931a59e3d23af052b01a8",
+  "input": {
+    "text": "mountain"
+  }
+}

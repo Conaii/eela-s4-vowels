@@ -1,0 +1,19 @@
+{
+  "key": "uk:cake",
+  "text": "cake",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "10e5201618be98bd87215672dbc60aebf0c11b34b392e3fe654a4b273f44edb3",
+  "mp3": "完整课件资源/chirp3-uk/10e5201618be98bd87215672.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/10e5201618be98bd87215672.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.118667,
+  "voiced": 0.6,
+  "sha256": "434b378091e8b1842c5bd0a07e7b82ba55618f246a91db0dbaad91aef3c31f3a",
+  "input": {
+    "text": "cake"
+  }
+}

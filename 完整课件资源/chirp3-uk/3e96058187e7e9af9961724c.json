@@ -1,0 +1,19 @@
+{
+  "key": "uk:Do Americans have an accent?",
+  "text": "Do Americans have an accent?",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "3e96058187e7e9af9961724cf4d639a3e6400796e2389d8b66926a9f6668486c",
+  "mp3": "完整课件资源/chirp3-uk/3e96058187e7e9af9961724c.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/3e96058187e7e9af9961724c.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.440125,
+  "voiced": 1.76,
+  "sha256": "c72b41fe4b66c0a0dd6eac442b9496529197bf4b3f7b15dba4fbd6196b1309f4",
+  "input": {
+    "text": "Do Americans have an accent?"
+  }
+}

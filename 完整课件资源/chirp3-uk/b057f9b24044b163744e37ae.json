@@ -1,0 +1,19 @@
+{
+  "key": "uk:The bus is under the bridge.",
+  "text": "The bus is under the bridge.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "b057f9b24044b163744e37aeec3aadd6199c9a7be7d44b81e9e791f4756fd68d",
+  "mp3": "完整课件资源/chirp3-uk/b057f9b24044b163744e37ae.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/b057f9b24044b163744e37ae.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.166792,
+  "voiced": 1.66,
+  "sha256": "22b892e38bbfde54ecce392bf894a86a781766460d43be57abe4cd4bf5864be6",
+  "input": {
+    "text": "The bus is under the bridge."
+  }
+}

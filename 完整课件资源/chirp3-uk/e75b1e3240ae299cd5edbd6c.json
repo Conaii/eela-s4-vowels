@@ -1,0 +1,19 @@
+{
+  "key": "uk:doubt",
+  "text": "doubt",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "e75b1e3240ae299cd5edbd6cbf38f7f37cf462652eed2a2b9ff2c76904e181e3",
+  "mp3": "完整课件资源/chirp3-uk/e75b1e3240ae299cd5edbd6c.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/e75b1e3240ae299cd5edbd6c.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.279417,
+  "voiced": 0.75,
+  "sha256": "19b156fcacdd84eda83e55f902a758f1bfa38d0d34bd41b184fcc150a3a30c1e",
+  "input": {
+    "text": "doubt"
+  }
+}

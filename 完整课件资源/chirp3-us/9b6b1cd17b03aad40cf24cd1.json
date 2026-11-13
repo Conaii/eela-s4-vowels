@@ -1,0 +1,18 @@
+{
+  "key": "us:feet",
+  "text": "feet",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "9b6b1cd17b03aad40cf24cd10d2bf9b6040ca29f67bb4442f7135e65b94eccd5",
+  "mp3": "完整课件资源/chirp3-us/9b6b1cd17b03aad40cf24cd1.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.4345,
+  "voiced": 0.93,
+  "sha256": "fd09296481161ac2119bcf49614711367bf957f57c777cf53cb5bc1d6350b16a",
+  "input": {
+    "text": "feet"
+  }
+}

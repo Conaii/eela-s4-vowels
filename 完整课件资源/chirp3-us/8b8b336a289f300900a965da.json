@@ -1,0 +1,18 @@
+{
+  "key": "us:He often makes faces at the baby.",
+  "text": "He often makes faces at the baby.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "8b8b336a289f300900a965dabc2595cc83872fac354d3f1cc01171b8dbbc80b6",
+  "mp3": "完整课件资源/chirp3-us/8b8b336a289f300900a965da.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.919417,
+  "voiced": 2.42,
+  "sha256": "86b89cc9875b20e562ef8e1454dcd2044d8be29788fb64a2e1cbc868dad29c03",
+  "input": {
+    "text": "He often makes faces at the baby."
+  }
+}

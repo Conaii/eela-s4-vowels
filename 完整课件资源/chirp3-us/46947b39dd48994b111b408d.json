@@ -1,0 +1,18 @@
+{
+  "key": "us:What are you doing?",
+  "text": "What are you doing?",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "46947b39dd48994b111b408d01d2451c8f6ca72cd1bddd8f692adbe96848d44b",
+  "mp3": "完整课件资源/chirp3-us/46947b39dd48994b111b408d.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.453708,
+  "voiced": 0.96,
+  "sha256": "c0e1233907ee5ffa0c95a836f393624c39a644bf9ced62ed5839ae2fad313622",
+  "input": {
+    "text": "What are you doing?"
+  }
+}

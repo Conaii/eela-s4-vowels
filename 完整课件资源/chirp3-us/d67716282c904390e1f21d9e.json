@@ -1,0 +1,18 @@
+{
+  "key": "us:A chocolate cake.",
+  "text": "A chocolate cake.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "d67716282c904390e1f21d9e460b36d08f92429bbd715bf4b3219c0a8edec7ee",
+  "mp3": "完整课件资源/chirp3-us/d67716282c904390e1f21d9e.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.63975,
+  "voiced": 2.11,
+  "sha256": "aeb32cc02c2fc6a8485391612a6dc95d07951a8a0c14b757c1832e919306c9d1",
+  "input": {
+    "text": "A chocolate cake."
+  }
+}

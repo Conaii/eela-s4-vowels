@@ -1,0 +1,18 @@
+{
+  "key": "us:East or west, home is best.",
+  "text": "East or west, home is best.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "d79abcdf2ec2792ba13cb03d802d3484cb63735107d64aabe60293ecf78b761f",
+  "mp3": "完整课件资源/chirp3-us/d79abcdf2ec2792ba13cb03d.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 3.390333,
+  "voiced": 2.79,
+  "sha256": "104d07ac186c3f66974d3e2fb30ea51e83b2476b87f2b6618f58dac0c1f0ea26",
+  "input": {
+    "text": "East or west, home is best."
+  }
+}

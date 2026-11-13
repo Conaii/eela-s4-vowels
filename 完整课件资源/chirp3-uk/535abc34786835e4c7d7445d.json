@@ -1,0 +1,19 @@
+{
+  "key": "uk:East or west, home is best.",
+  "text": "East or west, home is best.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "535abc34786835e4c7d7445db667c8ebe57f386f98debac2c21020e4dae489b8",
+  "mp3": "完整课件资源/chirp3-uk/535abc34786835e4c7d7445d.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/535abc34786835e4c7d7445d.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 3.090042,
+  "voiced": 2.52,
+  "sha256": "417b41d283eaf29ac8bc640594dc2367af150060b3402b60a43c4d652f018d02",
+  "input": {
+    "text": "East or west, home is best."
+  }
+}

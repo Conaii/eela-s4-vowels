@@ -1,0 +1,18 @@
+{
+  "key": "us:Let's get out of here now.",
+  "text": "Let's get out of here now.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "381766b1d205abc950956d7d8309e0ac5dc16c1dca445b75f236fde699facb13",
+  "mp3": "完整课件资源/chirp3-us/381766b1d205abc950956d7d.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.267375,
+  "voiced": 1.77,
+  "sha256": "7396b73f60da05b41e56b9e92988b2477ec669d81d278d70eae218f079c19305",
+  "input": {
+    "text": "Let's get out of here now."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "key": "uk:What is it that's so important it can't wait five minutes?",
+  "text": "What is it that's so important it can't wait five minutes?",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "f78b4647feec6436d857f5774ec668fc606eae37006681c4a0a5223b470c811c",
+  "mp3": "完整课件资源/chirp3-uk/f78b4647feec6436d857f577.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/f78b4647feec6436d857f577.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 4.140792,
+  "voiced": 3.62,
+  "sha256": "0988dbb3cb7fd1043e2663d1d3aa46b7f4195f4dc4ad9eb0a499d7a6c98588d5",
+  "input": {
+    "text": "What is it that's so important it can't wait five minutes?"
+  }
+}

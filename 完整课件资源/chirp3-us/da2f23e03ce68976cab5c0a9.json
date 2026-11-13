@@ -1,0 +1,18 @@
+{
+  "key": "us:The murderer was never caught.",
+  "text": "The murderer was never caught.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "da2f23e03ce68976cab5c0a9beeb3694289bd0ea4c4c0978d0d0c7978d1c86b5",
+  "mp3": "完整课件资源/chirp3-us/da2f23e03ce68976cab5c0a9.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 3.348417,
+  "voiced": 2.74,
+  "sha256": "b622e2f3ff3ad3c38c81d9b8becc27868ef405c0c2b9ef911a52df6b98ce2f4b",
+  "input": {
+    "text": "The murderer was never caught."
+  }
+}

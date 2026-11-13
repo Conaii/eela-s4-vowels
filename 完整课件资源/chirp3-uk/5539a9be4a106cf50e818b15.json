@@ -1,0 +1,19 @@
+{
+  "key": "uk:water",
+  "text": "water",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "5539a9be4a106cf50e818b15cbafb565b07040f84f62e4a8469534afdf51acb9",
+  "mp3": "完整课件资源/chirp3-uk/5539a9be4a106cf50e818b15.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/5539a9be4a106cf50e818b15.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.19575,
+  "voiced": 0.7,
+  "sha256": "8814b2a7422378bdee3fa01174c41af523f1f8e060c0ebaeaa1e7f5f732b2897",
+  "input": {
+    "text": "water"
+  }
+}

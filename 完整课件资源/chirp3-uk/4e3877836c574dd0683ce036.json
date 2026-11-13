@@ -1,0 +1,19 @@
+{
+  "key": "uk:murder",
+  "text": "murder",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "4e3877836c574dd0683ce0369ce44cfa3355373be85a06956403d10ddefc2b2d",
+  "mp3": "完整课件资源/chirp3-uk/4e3877836c574dd0683ce036.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/4e3877836c574dd0683ce036.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.293875,
+  "voiced": 0.78,
+  "sha256": "11359e6a7a9b2efc031e43d02026ca0c407ea147f4b0b0198a0c19f15fa0fbbe",
+  "input": {
+    "text": "murder"
+  }
+}

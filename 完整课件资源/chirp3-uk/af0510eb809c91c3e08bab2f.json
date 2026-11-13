@@ -1,0 +1,19 @@
+{
+  "key": "uk:cheese",
+  "text": "cheese",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "af0510eb809c91c3e08bab2f3b78356769c82edd7bb160cdef6b6f0b07efac9a",
+  "mp3": "完整课件资源/chirp3-uk/af0510eb809c91c3e08bab2f.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/af0510eb809c91c3e08bab2f.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.330792,
+  "voiced": 0.79,
+  "sha256": "dc8dc4ebb36ef8a6dea7a990525c4c40544d5b5bf01bc5451a2de1785b0f8e42",
+  "input": {
+    "text": "cheese"
+  }
+}

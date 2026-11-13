@@ -1,0 +1,18 @@
+{
+  "key": "us:A good cook could cook as many cookies as a good cook who could cook cookies.",
+  "text": "A good cook could cook as many cookies as a good cook who could cook cookies.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "1a2f88d786670da53b2c25fd8f9161c8ad6260658be66069adf38367af7ba349",
+  "mp3": "完整课件资源/chirp3-us/1a2f88d786670da53b2c25fd.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 6.638708,
+  "voiced": 5.93,
+  "sha256": "832090b508e31577eb1c62648634a860dd316525cb7028defaa06ccde9b83ff3",
+  "input": {
+    "text": "A good cook could cook as many cookies as a good cook who could cook cookies."
+  }
+}

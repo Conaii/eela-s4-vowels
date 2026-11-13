@@ -1,0 +1,18 @@
+{
+  "key": "us:moon",
+  "text": "moon",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "e2b498f35021f2ac9832464e21f4576b864d77c23f344e9276082ccd74f5f626",
+  "mp3": "完整课件资源/chirp3-us/e2b498f35021f2ac9832464e.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.344375,
+  "voiced": 1.81,
+  "sha256": "d6c1e337056b2d1ae9a381d0c55be40eff2464c1f7e3f1b5379b4ffb06f9a902",
+  "input": {
+    "text": "moon"
+  }
+}

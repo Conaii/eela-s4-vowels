@@ -1,0 +1,19 @@
+{
+  "key": "uk:toy",
+  "text": "toy",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "cba63669d6f00459c455bebb3ef0ca6ece95ee15456dc68109004e86b7925d31",
+  "mp3": "完整课件资源/chirp3-uk/cba63669d6f00459c455bebb.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/cba63669d6f00459c455bebb.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.087708,
+  "voiced": 0.58,
+  "sha256": "fb0f0d7786276822370eecdabe0bf11d59ae8417209a59d15885be0886dacb3a",
+  "input": {
+    "text": "toy"
+  }
+}

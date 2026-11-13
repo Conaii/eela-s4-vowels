@@ -1,0 +1,19 @@
+{
+  "key": "uk:fool",
+  "text": "fool",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "0a70afee5ad85b5202b5348ec3b463e93476cb02b080f77e78639194a2dcfcb2",
+  "mp3": "完整课件资源/chirp3-uk/0a70afee5ad85b5202b5348e.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/0a70afee5ad85b5202b5348e.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.141875,
+  "voiced": 0.65,
+  "sha256": "ac2cc5e3f0388d9432a3776ca9f75948fbc1bae78e1bbbc42e9cc0002aaae919",
+  "input": {
+    "text": "fool"
+  }
+}

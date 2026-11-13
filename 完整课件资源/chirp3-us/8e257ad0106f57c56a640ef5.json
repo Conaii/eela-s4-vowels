@@ -1,0 +1,18 @@
+{
+  "key": "us:cook",
+  "text": "cook",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "8e257ad0106f57c56a640ef5f3db64937636d8b85381038ac2cf4efe86774ab7",
+  "mp3": "完整课件资源/chirp3-us/8e257ad0106f57c56a640ef5.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.100875,
+  "voiced": 1.49,
+  "sha256": "9887d3a2e55ab0f4009b44a1d42990d0af638d50e51d3aa1edff7ea4a68f1a40",
+  "input": {
+    "text": "cook"
+  }
+}

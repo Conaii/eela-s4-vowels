@@ -1,0 +1,18 @@
+{
+  "key": "us:No pain, no gain.",
+  "text": "No pain, no gain.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "7ca4cddc3e48842564637fa801dad25a1711323e943f357e3c7b4632554aeef6",
+  "mp3": "完整课件资源/chirp3-us/7ca4cddc3e48842564637fa8.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.631625,
+  "voiced": 2.13,
+  "sha256": "f9e8f23d8b05c78580aeb63d23a818986877d538f0347ccdb36a180ae10c9e53",
+  "input": {
+    "text": "No pain, no gain."
+  }
+}

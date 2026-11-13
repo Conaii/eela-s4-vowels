@@ -1,0 +1,19 @@
+{
+  "key": "uk:sausage",
+  "text": "sausage",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "c72c1099c54a86e09c598a06801ddc175203c5faefdb7c5b61c7ec5aa628c321",
+  "mp3": "完整课件资源/chirp3-uk/c72c1099c54a86e09c598a06.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/c72c1099c54a86e09c598a06.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.42075,
+  "voiced": 0.9,
+  "sha256": "1da1cbe8c2a0575e764b2a590787ad7bd4b9be86386147c513638c30013ce6d3",
+  "input": {
+    "text": "sausage"
+  }
+}

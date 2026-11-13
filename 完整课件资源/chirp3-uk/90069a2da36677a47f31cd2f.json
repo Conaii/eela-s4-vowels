@@ -1,0 +1,19 @@
+{
+  "key": "uk:We're going to call her Sophie.",
+  "text": "We're going to call her Sophie.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "90069a2da36677a47f31cd2fc0149dd3ad0c0e517943d2c25c9d4cc8d97be588",
+  "mp3": "完整课件资源/chirp3-uk/90069a2da36677a47f31cd2f.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/90069a2da36677a47f31cd2f.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.246042,
+  "voiced": 1.66,
+  "sha256": "ac318f754a1e2f66bebb6c239398d04ca993eb00ac62bb23c5ac027e1825de47",
+  "input": {
+    "text": "We're going to call her Sophie."
+  }
+}

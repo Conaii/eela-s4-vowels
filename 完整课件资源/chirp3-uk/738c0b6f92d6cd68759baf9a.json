@@ -1,0 +1,19 @@
+{
+  "key": "uk:Come to the New Year disco and bring your partner!",
+  "text": "Come to the New Year disco and bring your partner!",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "738c0b6f92d6cd68759baf9a42a6e392ce1df8e5898dff490ec9a0ff09c72cd7",
+  "mp3": "完整课件资源/chirp3-uk/738c0b6f92d6cd68759baf9a.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/738c0b6f92d6cd68759baf9a.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 3.275417,
+  "voiced": 2.77,
+  "sha256": "1a1c1e28c850c58434227ba8fcd2ae2ca99f4651967eb6a634369613e598b3d0",
+  "input": {
+    "text": "Come to the New Year disco and bring your partner!"
+  }
+}

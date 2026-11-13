@@ -1,0 +1,18 @@
+{
+  "key": "us:Please see me in three weeks.",
+  "text": "Please see me in three weeks.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "24e6e60d6359954e21552350c9b40b8bd8da988fabab7e86d6ec59378d391202",
+  "mp3": "完整课件资源/chirp3-us/24e6e60d6359954e21552350.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.32275,
+  "voiced": 1.82,
+  "sha256": "387054ef66f49a78e99341e12cd4e64d8aea756113e77e216ba2f3d09e67e9a2",
+  "input": {
+    "text": "Please see me in three weeks."
+  }
+}

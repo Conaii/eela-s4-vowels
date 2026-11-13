@@ -1,0 +1,19 @@
+{
+  "key": "uk:beach",
+  "text": "beach",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "a23234c94c6afebfc6a14c2b1f8597f36e594703dd08f4321b5d73f945a11038",
+  "mp3": "完整课件资源/chirp3-uk/a23234c94c6afebfc6a14c2b.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/a23234c94c6afebfc6a14c2b.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.314333,
+  "voiced": 0.8,
+  "sha256": "5232b26b415e4de374967a7d14d2752777e478e37abb9b967339499b93451d3f",
+  "input": {
+    "text": "beach"
+  }
+}

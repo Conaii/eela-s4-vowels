@@ -1,0 +1,19 @@
+{
+  "key": "uk:He often makes faces at the baby.",
+  "text": "He often makes faces at the baby.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "1fac81239bfd96aac6511df6ca0c38e32e10a01c7b9c208124e1eba9a199cf45",
+  "mp3": "完整课件资源/chirp3-uk/1fac81239bfd96aac6511df6.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/1fac81239bfd96aac6511df6.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.627375,
+  "voiced": 2.12,
+  "sha256": "b80e22482abb7c25b8a1ed099a78473d912c0eff363b942dae831f1b203a9ef9",
+  "input": {
+    "text": "He often makes faces at the baby."
+  }
+}

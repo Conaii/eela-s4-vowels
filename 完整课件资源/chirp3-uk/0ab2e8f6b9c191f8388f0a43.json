@@ -1,0 +1,19 @@
+{
+  "key": "uk:flu",
+  "text": "flu",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "0ab2e8f6b9c191f8388f0a4332ff29a6a94116d4da4d421ae05c80c129a13373",
+  "mp3": "完整课件资源/chirp3-uk/0ab2e8f6b9c191f8388f0a43.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/0ab2e8f6b9c191f8388f0a43.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.195958,
+  "voiced": 0.7,
+  "sha256": "8b066915dcc6db333925a494eced94ca856e8be3ff75f3acabd473280fbead1c",
+  "input": {
+    "text": "flu"
+  }
+}

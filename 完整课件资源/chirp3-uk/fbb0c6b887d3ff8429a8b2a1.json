@@ -1,0 +1,19 @@
+{
+  "key": "uk:bat",
+  "text": "bat",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "fbb0c6b887d3ff8429a8b2a1534b7e9ba08eef912afb5bdc8356d6c4303e16f0",
+  "mp3": "完整课件资源/chirp3-uk/fbb0c6b887d3ff8429a8b2a1.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/fbb0c6b887d3ff8429a8b2a1.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.09675,
+  "voiced": 0.55,
+  "sha256": "371bb3fa79ab7f65368fc0f8538d28909596d6b600619b84c62a69207852d0bb",
+  "input": {
+    "text": "bat"
+  }
+}

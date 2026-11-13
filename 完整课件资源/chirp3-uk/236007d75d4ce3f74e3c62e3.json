@@ -1,0 +1,19 @@
+{
+  "key": "uk:eat",
+  "text": "eat",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "236007d75d4ce3f74e3c62e3c819181afd028d083e2979de6c08cabeb3ff0451",
+  "mp3": "完整课件资源/chirp3-uk/236007d75d4ce3f74e3c62e3.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/236007d75d4ce3f74e3c62e3.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.113375,
+  "voiced": 0.56,
+  "sha256": "654cef5e25cb932f5ca222c35c4ab4cd4c91d830c0d6546d00ee5e9cd5cdcaf7",
+  "input": {
+    "text": "eat"
+  }
+}

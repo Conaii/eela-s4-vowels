@@ -1,0 +1,18 @@
+{
+  "key": "us:What is it that's so important it can't wait five minutes?",
+  "text": "What is it that's so important it can't wait five minutes?",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "fbd35853c170c2ad22e0c22c57f5e2cab69ba130a50699e9d687c10acd4db5b3",
+  "mp3": "完整课件资源/chirp3-us/fbd35853c170c2ad22e0c22c.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 4.370042,
+  "voiced": 3.87,
+  "sha256": "6ca333bc6ec00cd041b59698c152425f2a462e62549d5dc15455fc6c27179cfe",
+  "input": {
+    "text": "What is it that's so important it can't wait five minutes?"
+  }
+}

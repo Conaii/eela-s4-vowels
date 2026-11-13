@@ -1,0 +1,19 @@
+{
+  "key": "uk:fruit",
+  "text": "fruit",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "1e04eb23e793e515d510a3f71b4c5896505a9ebfab878dd28ccdb153faba68cd",
+  "mp3": "完整课件资源/chirp3-uk/1e04eb23e793e515d510a3f7.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/1e04eb23e793e515d510a3f7.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.375875,
+  "voiced": 0.76,
+  "sha256": "d72fb78d7b860bac457f1dc9360b90b560564407867c45ed57dde6532a1915fd",
+  "input": {
+    "text": "fruit"
+  }
+}

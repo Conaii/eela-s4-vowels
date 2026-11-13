@@ -1,0 +1,19 @@
+{
+  "key": "uk:Seeing is believing.",
+  "text": "Seeing is believing.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "c89698b5a2ccdca83112cde3e01f73ac8144b5f311df79f830261b6e7f078748",
+  "mp3": "完整课件资源/chirp3-uk/c89698b5a2ccdca83112cde3.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/c89698b5a2ccdca83112cde3.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.346125,
+  "voiced": 1.84,
+  "sha256": "6c2c1bc2deb56dd01bb2d3ab51e4cbe379484981f0935678a73c070d3be9afb9",
+  "input": {
+    "text": "Seeing is believing."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "key": "uk:bird",
+  "text": "bird",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "db1e9c51ef5cf35bda4c61a61d99dd57a5dc8cfa63d87ee1d81156bbae9d6f96",
+  "mp3": "完整课件资源/chirp3-uk/db1e9c51ef5cf35bda4c61a6.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/db1e9c51ef5cf35bda4c61a6.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.219708,
+  "voiced": 0.72,
+  "sha256": "ba3cbba376ae51123c198222a1d2d27e4a6304efe18d9b69f921efcc3cf96e74",
+  "input": {
+    "text": "bird"
+  }
+}

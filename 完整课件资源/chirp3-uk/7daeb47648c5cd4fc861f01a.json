@@ -1,0 +1,19 @@
+{
+  "key": "uk:boat",
+  "text": "boat",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "7daeb47648c5cd4fc861f01a6777358606b92fef8d1297d30951b6d56dcf8654",
+  "mp3": "完整课件资源/chirp3-uk/7daeb47648c5cd4fc861f01a.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/7daeb47648c5cd4fc861f01a.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.033958,
+  "voiced": 0.53,
+  "sha256": "92401909cb596705c28431f850e87c4a4333d899e569e7202a4ab8fc1af0579a",
+  "input": {
+    "text": "boat"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "key": "uk:feet",
+  "text": "feet",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "e425f7d50f8c0566958d13c1d3cebdfc96d20196cabcd1cb85936965a62fd560",
+  "mp3": "完整课件资源/chirp3-uk/e425f7d50f8c0566958d13c1.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/e425f7d50f8c0566958d13c1.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.22,
+  "voiced": 0.67,
+  "sha256": "8ed0bd5f60cb64091a3942155210021f7ed206481a7c66b5b512a595d0bb4cb0",
+  "input": {
+    "text": "feet"
+  }
+}

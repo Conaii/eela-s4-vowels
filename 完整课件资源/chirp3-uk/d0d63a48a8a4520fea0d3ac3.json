@@ -1,0 +1,19 @@
+{
+  "key": "uk:rude",
+  "text": "rude",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "d0d63a48a8a4520fea0d3ac3007477369ece41ecb395180f9b985fe5f1c3aa2c",
+  "mp3": "完整课件资源/chirp3-uk/d0d63a48a8a4520fea0d3ac3.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/d0d63a48a8a4520fea0d3ac3.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.141917,
+  "voiced": 0.64,
+  "sha256": "0303864bcea2851d159177d772a79236504597edd83c929f57cc51d3831dc0a7",
+  "input": {
+    "text": "rude"
+  }
+}

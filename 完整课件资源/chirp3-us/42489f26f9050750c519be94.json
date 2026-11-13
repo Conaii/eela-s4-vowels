@@ -1,0 +1,18 @@
+{
+  "key": "us:I hate you, mom!",
+  "text": "I hate you, mom!",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "42489f26f9050750c519be9411da27571cb9a8cc02f259f25a3c8919011fe783",
+  "mp3": "完整课件资源/chirp3-us/42489f26f9050750c519be94.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.569125,
+  "voiced": 0.99,
+  "sha256": "2561f1c2c81f8b2f2d08de1902dd617c5ddde00b8423f258835ff45e86a19b65",
+  "input": {
+    "text": "I hate you, mom!"
+  }
+}

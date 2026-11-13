@@ -1,0 +1,18 @@
+{
+  "key": "us:hair",
+  "text": "hair",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "870b96b9c233f082fe4f902c0a20b6a8bca6f35a939ba895246fc8a8dcc84e76",
+  "mp3": "完整课件资源/chirp3-us/870b96b9c233f082fe4f902c.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.364375,
+  "voiced": 0.86,
+  "sha256": "a5e8b1e9287558a4d0235930766d91ec9096092c5c460dcd87ea80b541dfcdfc",
+  "input": {
+    "text": "hair"
+  }
+}

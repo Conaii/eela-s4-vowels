@@ -1,0 +1,18 @@
+{
+  "key": "us:I can't see your face.",
+  "text": "I can't see your face.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "6b35b1dc8e9fa395c3015eeaff23aa943c1a7cea73e0f206da5dfda7a2bc9dd4",
+  "mp3": "完整课件资源/chirp3-us/6b35b1dc8e9fa395c3015eea.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.407542,
+  "voiced": 1.91,
+  "sha256": "806734dc33b9f1fd46d040938765ce84ddd91ee5e4b59291504292d31694f27b",
+  "input": {
+    "text": "I can't see your face."
+  }
+}

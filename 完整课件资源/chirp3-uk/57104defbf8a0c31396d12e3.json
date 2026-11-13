@@ -1,0 +1,19 @@
+{
+  "key": "uk:How many cookies could a good cook cook if a good cook could cook cookies?",
+  "text": "How many cookies could a good cook cook if a good cook could cook cookies?",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "57104defbf8a0c31396d12e3c0e85d8d116fe02d2ac08f9dcb6cdf191b431290",
+  "mp3": "完整课件资源/chirp3-uk/57104defbf8a0c31396d12e3.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/57104defbf8a0c31396d12e3.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 5.220208,
+  "voiced": 4.68,
+  "sha256": "fc5431b9db82f4c794fb84a4f697e6ee0d7987698d65d1da28d7c39a70770753",
+  "input": {
+    "text": "How many cookies could a good cook cook if a good cook could cook cookies?"
+  }
+}

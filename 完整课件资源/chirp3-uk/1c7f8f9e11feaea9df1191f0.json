@@ -1,0 +1,19 @@
+{
+  "key": "uk:car park",
+  "text": "car park",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "1c7f8f9e11feaea9df1191f0816aacff5e721a76daeeb6f260e940bf72750668",
+  "mp3": "完整课件资源/chirp3-uk/1c7f8f9e11feaea9df1191f0.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/1c7f8f9e11feaea9df1191f0.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.591667,
+  "voiced": 1.09,
+  "sha256": "d3837136e61add2b7149337891c1ad298f84877f6bc6ab5689eb5c28c5051723",
+  "input": {
+    "text": "car park"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "key": "uk:Better late than never.",
+  "text": "Better late than never.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "f298e3a3f40dfbdf9570bdf455997f8e77040c3df255697717b761f90577d60a",
+  "mp3": "完整课件资源/chirp3-uk/f298e3a3f40dfbdf9570bdf4.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/f298e3a3f40dfbdf9570bdf4.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.690542,
+  "voiced": 1.18,
+  "sha256": "75e4931fc9b34e461be59344befd92dd49fee489623cf10ad24dcc27ed8cc97d",
+  "input": {
+    "text": "Better late than never."
+  }
+}

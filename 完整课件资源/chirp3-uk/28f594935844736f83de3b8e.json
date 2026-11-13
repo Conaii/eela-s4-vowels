@@ -1,0 +1,19 @@
+{
+  "key": "uk:I now pronounce you man and wife.",
+  "text": "I now pronounce you man and wife.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "28f594935844736f83de3b8e38d34b7fdee050969f3a99a0bd6343742df94bcc",
+  "mp3": "完整课件资源/chirp3-uk/28f594935844736f83de3b8e.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/28f594935844736f83de3b8e.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 3.169958,
+  "voiced": 2.59,
+  "sha256": "09478d54205fd8e0fb69cbfcba57758f192fda1928ec4378334098524b424994",
+  "input": {
+    "text": "I now pronounce you man and wife."
+  }
+}

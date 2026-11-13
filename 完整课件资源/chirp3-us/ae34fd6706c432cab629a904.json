@@ -1,0 +1,18 @@
+{
+  "key": "us:shit",
+  "text": "shit",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "ae34fd6706c432cab629a904a9f74d1a9fbe140826de649a1144360580c70e6d",
+  "mp3": "完整课件资源/chirp3-us/ae34fd6706c432cab629a904.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.133542,
+  "voiced": 1.57,
+  "sha256": "754bc6533b6142474c7fdb63f8ba18c77119af2fea799893c8f3f226f09b67eb",
+  "input": {
+    "text": "shit"
+  }
+}

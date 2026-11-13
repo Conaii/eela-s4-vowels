@@ -1,0 +1,19 @@
+{
+  "key": "uk:sing",
+  "text": "sing",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "ac766c164a6007577f04a9b418635998fe8634ef9cc08a8648afe2d54054a8ab",
+  "mp3": "完整课件资源/chirp3-uk/ac766c164a6007577f04a9b4.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/ac766c164a6007577f04a9b4.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.364958,
+  "voiced": 0.85,
+  "sha256": "c96bcdea9a4e8375ae52ac502aa9a225d9c5d23c9003aaed664a4d3621570be3",
+  "input": {
+    "text": "sing"
+  }
+}

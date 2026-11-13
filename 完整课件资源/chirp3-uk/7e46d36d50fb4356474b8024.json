@@ -1,0 +1,19 @@
+{
+  "key": "uk:bus",
+  "text": "bus",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "7e46d36d50fb4356474b80243f82d62c32b69ce68cc21aa7d31d21a31f0c8958",
+  "mp3": "完整课件资源/chirp3-uk/7e46d36d50fb4356474b8024.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/7e46d36d50fb4356474b8024.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.180875,
+  "voiced": 0.67,
+  "sha256": "041c7d7a199bbea4a94081b9bdc25608df58f73c69d5f2e5942650d2067577b5",
+  "input": {
+    "text": "bus"
+  }
+}

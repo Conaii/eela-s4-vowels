@@ -1,0 +1,19 @@
+{
+  "key": "uk:A pig falls into a big pit!",
+  "text": "A pig falls into a big pit!",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "fa73d9bdeb9794693e1b98617e1ea13e56fb3194951cb5ce3e0545cbf60d6f8b",
+  "mp3": "完整课件资源/chirp3-uk/fa73d9bdeb9794693e1b9861.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/fa73d9bdeb9794693e1b9861.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.660167,
+  "voiced": 2.15,
+  "sha256": "a7b19295b85e0a51dc88250cd36a5e8b09c4163da59d7717068e141a541f5a2f",
+  "input": {
+    "text": "A pig falls into a big pit!"
+  }
+}

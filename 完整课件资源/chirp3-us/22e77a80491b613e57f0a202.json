@@ -1,0 +1,18 @@
+{
+  "key": "us:Seeing is believing.",
+  "text": "Seeing is believing.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "22e77a80491b613e57f0a20206d1244afe52fd960c21a288b60e54c704520337",
+  "mp3": "完整课件资源/chirp3-us/22e77a80491b613e57f0a202.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.563875,
+  "voiced": 2.06,
+  "sha256": "b9e8e9befa543c127a4cd0481cb7f135a6263fd36a17fc3ef7e822438e02d05d",
+  "input": {
+    "text": "Seeing is believing."
+  }
+}

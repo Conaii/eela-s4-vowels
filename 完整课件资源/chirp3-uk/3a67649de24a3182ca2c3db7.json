@@ -1,0 +1,19 @@
+{
+  "key": "uk:Where do you live?",
+  "text": "Where do you live?",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "3a67649de24a3182ca2c3db7c1a99f7a9e6b339ab321bb92730cacde208278b0",
+  "mp3": "完整课件资源/chirp3-uk/3a67649de24a3182ca2c3db7.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/3a67649de24a3182ca2c3db7.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.494292,
+  "voiced": 0.94,
+  "sha256": "182415db19887de556ab086488e1864842e7cdca4f3ba1827d4df12939a9d511",
+  "input": {
+    "text": "Where do you live?"
+  }
+}

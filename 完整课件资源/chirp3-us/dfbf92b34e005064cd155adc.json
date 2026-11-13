@@ -1,0 +1,18 @@
+{
+  "key": "us:I was a good rider.",
+  "text": "I was a good rider.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "dfbf92b34e005064cd155adca0a063c397c7fe84c6020ae56d81ca05e8210b3c",
+  "mp3": "完整课件资源/chirp3-us/dfbf92b34e005064cd155adc.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.242375,
+  "voiced": 1.65,
+  "sha256": "2ad3b61bba698e1890b7240227e5c4e54eeb19ed01e857cb8ed81f57bc4705d5",
+  "input": {
+    "text": "I was a good rider."
+  }
+}

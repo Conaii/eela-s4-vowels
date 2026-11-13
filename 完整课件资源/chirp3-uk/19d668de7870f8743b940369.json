@@ -1,0 +1,19 @@
+{
+  "key": "uk:police",
+  "text": "police",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "19d668de7870f8743b9403691c1d5998ef22c73ec3d40c2ad4a647181f6df572",
+  "mp3": "完整课件资源/chirp3-uk/19d668de7870f8743b940369.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/19d668de7870f8743b940369.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.372458,
+  "voiced": 0.87,
+  "sha256": "71fba823df7fccd263fd1730eab4052eb4c44030d54d10b8a8579da3874eb1a3",
+  "input": {
+    "text": "police"
+  }
+}

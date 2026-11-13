@@ -1,0 +1,19 @@
+{
+  "key": "uk:It was hot and getting hotter.",
+  "text": "It was hot and getting hotter.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "6b83fab262dfe9bd67bf26bd5ea70fca78bfae126663316bc73762dbd0e6a67f",
+  "mp3": "完整课件资源/chirp3-uk/6b83fab262dfe9bd67bf26bd.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/6b83fab262dfe9bd67bf26bd.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.442875,
+  "voiced": 1.95,
+  "sha256": "dce4806bde835a6518445d4b326618e64b3d28ca06d4e2692345f7e2f82472bd",
+  "input": {
+    "text": "It was hot and getting hotter."
+  }
+}

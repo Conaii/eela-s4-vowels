@@ -1,0 +1,19 @@
+{
+  "key": "uk:What are you doing?",
+  "text": "What are you doing?",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "de16c34bb881b6bf84eea647e2d6f25089d7584c43f37111666271cc55888517",
+  "mp3": "完整课件资源/chirp3-uk/de16c34bb881b6bf84eea647.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/de16c34bb881b6bf84eea647.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.597625,
+  "voiced": 1.08,
+  "sha256": "b470be87136e132b33841a1a79a6612725c87e885017eb0891c2a5d2cdd9f0c4",
+  "input": {
+    "text": "What are you doing?"
+  }
+}

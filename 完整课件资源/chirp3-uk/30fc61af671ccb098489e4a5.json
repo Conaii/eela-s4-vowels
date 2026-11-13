@@ -1,0 +1,19 @@
+{
+  "key": "uk:The murdered woman was well known in the area.",
+  "text": "The murdered woman was well known in the area.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "30fc61af671ccb098489e4a5b61c97b51456453154fe061f3f65747335ab06d4",
+  "mp3": "完整课件资源/chirp3-uk/30fc61af671ccb098489e4a5.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/30fc61af671ccb098489e4a5.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 3.253583,
+  "voiced": 2.76,
+  "sha256": "026e992044678e5884baef3e254bf22e0944bf5a7de0aebbf58a8f65865288e2",
+  "input": {
+    "text": "The murdered woman was well known in the area."
+  }
+}

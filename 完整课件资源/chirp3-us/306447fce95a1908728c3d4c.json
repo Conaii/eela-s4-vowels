@@ -1,0 +1,18 @@
+{
+  "key": "us:In those days most people left school when they were only fifteen years old.",
+  "text": "In those days most people left school when they were only fifteen years old.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "306447fce95a1908728c3d4c3b668ffe2341b0ab0928ad168f0b05ef5d6781d1",
+  "mp3": "完整课件资源/chirp3-us/306447fce95a1908728c3d4c.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 6.60725,
+  "voiced": 5.93,
+  "sha256": "94d612496652cfe9bac49163aa518897b4b6420a50dac22810343bc9638da55c",
+  "input": {
+    "text": "In those days most people left school when they were only fifteen years old."
+  }
+}

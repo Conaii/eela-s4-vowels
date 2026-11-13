@@ -1,0 +1,19 @@
+{
+  "key": "uk:pizza",
+  "text": "pizza",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "45a013a3a29373d94e455d82e37ac060ad64328809fdd0f9fcddecc79aae3e87",
+  "mp3": "完整课件资源/chirp3-uk/45a013a3a29373d94e455d82.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/45a013a3a29373d94e455d82.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.41825,
+  "voiced": 0.91,
+  "sha256": "ff9e2577834ef6bbad0de5721a00d0264093feb2156404861d6d9f3e2bab3922",
+  "input": {
+    "text": "pizza"
+  }
+}

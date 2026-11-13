@@ -1,0 +1,19 @@
+{
+  "key": "uk:The murderer was never caught.",
+  "text": "The murderer was never caught.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "2cedfe6b40b8b5b94c010f97a8a2ac26c878549c583632626427b4cbeac04844",
+  "mp3": "完整课件资源/chirp3-uk/2cedfe6b40b8b5b94c010f97.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/2cedfe6b40b8b5b94c010f97.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.641958,
+  "voiced": 1.82,
+  "sha256": "db4d1ca42d326b8dee7ed749a4dd4294723fb4fc8dee79eb6fe34a78fda5f172",
+  "input": {
+    "text": "The murderer was never caught."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "key": "us:The murdered woman was well known in the area.",
+  "text": "The murdered woman was well known in the area.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "3c6ca658c4bfbc519d1c407dce7b534893d95141f35d2ce1bb02eeb67e419c6e",
+  "mp3": "完整课件资源/chirp3-us/3c6ca658c4bfbc519d1c407d.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 3.0435,
+  "voiced": 2.55,
+  "sha256": "85c9d33a9a4c1b24dacd262ce26564f4a9c838d42b688823561050dcc473dea9",
+  "input": {
+    "text": "The murdered woman was well known in the area."
+  }
+}

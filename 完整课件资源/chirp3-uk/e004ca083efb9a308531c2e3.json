@@ -1,0 +1,19 @@
+{
+  "key": "uk:He's a night owl.",
+  "text": "He's a night owl.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "e004ca083efb9a308531c2e3dc030830f959a9f5509b48880034a96744ceed0a",
+  "mp3": "完整课件资源/chirp3-uk/e004ca083efb9a308531c2e3.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/e004ca083efb9a308531c2e3.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.0695,
+  "voiced": 1.47,
+  "sha256": "8040f9704acb41990a0a1d9a99efe363ff28390914016d2f254d1d6885298012",
+  "input": {
+    "text": "He's a night owl."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "key": "us:The food is good.",
+  "text": "The food is good.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "99937987ee5a88d7d8714922e02d31de408908647081b24b3dc5a8998aa771f3",
+  "mp3": "完整课件资源/chirp3-us/99937987ee5a88d7d8714922.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.220833,
+  "voiced": 1.62,
+  "sha256": "3544a247d49228c20dd153e937480611e055c4f176c8e61235214f996f044407",
+  "input": {
+    "text": "The food is good."
+  }
+}

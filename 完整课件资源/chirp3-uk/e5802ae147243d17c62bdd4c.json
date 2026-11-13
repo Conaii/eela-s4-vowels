@@ -1,0 +1,19 @@
+{
+  "key": "uk:quay",
+  "text": "quay",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "e5802ae147243d17c62bdd4cb30cb45901fa667716d21f6241441a2f7946dcb8",
+  "mp3": "完整课件资源/chirp3-uk/e5802ae147243d17c62bdd4c.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/e5802ae147243d17c62bdd4c.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.033958,
+  "voiced": 0.53,
+  "sha256": "9f9652feedc162a936d2f05f6cd880dafc39084875bcf371cf33cf9d94bb1ccf",
+  "input": {
+    "text": "quay"
+  }
+}

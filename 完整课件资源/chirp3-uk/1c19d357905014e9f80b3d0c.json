@@ -1,0 +1,19 @@
+{
+  "key": "uk:tea",
+  "text": "tea",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "1c19d357905014e9f80b3d0cec469a8113ff4bfb76691576bc6bac099a1c7e01",
+  "mp3": "完整课件资源/chirp3-uk/1c19d357905014e9f80b3d0c.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/1c19d357905014e9f80b3d0c.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.122958,
+  "voiced": 0.6,
+  "sha256": "5eeae7ababa719333767237178c8e7d090d3e644648c988529fa32e66a9d82fc",
+  "input": {
+    "text": "tea"
+  }
+}

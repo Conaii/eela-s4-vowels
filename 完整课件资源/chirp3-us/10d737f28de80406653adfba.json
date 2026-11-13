@@ -1,0 +1,18 @@
+{
+  "key": "us:The workmen sawed and hammered all day.",
+  "text": "The workmen sawed and hammered all day.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "10d737f28de80406653adfbabd73a65dacddf1378ae9d8bd6a95469c1da48ca5",
+  "mp3": "完整课件资源/chirp3-us/10d737f28de80406653adfba.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 3.943875,
+  "voiced": 3.45,
+  "sha256": "a0290e7485620fa969e49b847b27776da69931a5745e468de517809665f81204",
+  "input": {
+    "text": "The workmen sawed and hammered all day."
+  }
+}

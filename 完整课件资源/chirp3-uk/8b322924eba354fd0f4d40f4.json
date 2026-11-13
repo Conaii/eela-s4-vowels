@@ -1,0 +1,19 @@
+{
+  "key": "uk:taxi",
+  "text": "taxi",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "8b322924eba354fd0f4d40f49d2872cb72ae135d51aeffbd0d8a572074a8b4ae",
+  "mp3": "完整课件资源/chirp3-uk/8b322924eba354fd0f4d40f4.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/8b322924eba354fd0f4d40f4.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.355208,
+  "voiced": 0.79,
+  "sha256": "a7908a1d42a3d39a91e82b8f959e43e28b7cae5cb7c4f7a6d1a0a2e9486d42ed",
+  "input": {
+    "text": "taxi"
+  }
+}

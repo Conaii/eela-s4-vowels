@@ -1,0 +1,19 @@
+{
+  "key": "uk:saw",
+  "text": "saw",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "8fc5b7c492c5edc379756eaa583de2fb2fc5237589f5a047aa3c2ae96e8e55b0",
+  "mp3": "完整课件资源/chirp3-uk/8fc5b7c492c5edc379756eaa.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/8fc5b7c492c5edc379756eaa.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.239167,
+  "voiced": 0.7,
+  "sha256": "ccb29f68d4f89b37a1f741c0ea1e2a53788b1b208f333176b04861fd96d4c655",
+  "input": {
+    "text": "saw"
+  }
+}

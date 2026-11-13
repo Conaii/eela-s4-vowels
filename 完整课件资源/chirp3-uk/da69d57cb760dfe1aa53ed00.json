@@ -1,0 +1,19 @@
+{
+  "key": "uk:sue",
+  "text": "sue",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "da69d57cb760dfe1aa53ed00e574b8b3dd5eb8e35e291061e7f701249d26875b",
+  "mp3": "完整课件资源/chirp3-uk/da69d57cb760dfe1aa53ed00.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/da69d57cb760dfe1aa53ed00.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.30325,
+  "voiced": 0.81,
+  "sha256": "8f339400d3b5e8871a337ab50fee22f5b185e9ac32cfbe3b18663931438dc945",
+  "input": {
+    "text": "sue"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "key": "uk:ship",
+  "text": "ship",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "4385a6690dc29913dabce9a066d40fa57f6e6a814cc8efd05fdcbf82f45c6bb6",
+  "mp3": "完整课件资源/chirp3-uk/4385a6690dc29913dabce9a0.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/4385a6690dc29913dabce9a0.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.033958,
+  "voiced": 0.53,
+  "sha256": "4cd3c3df828f76268e6209cff5a27ca3d472f65f2e2bdc79b23f3b84b40578d2",
+  "input": {
+    "text": "ship"
+  }
+}

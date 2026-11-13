@@ -1,0 +1,18 @@
+{
+  "key": "us:sausage",
+  "text": "sausage",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "b0545caaf9993f6c4b46e8c4a4b9c516c2b45debb840302e347c92ed740abb9f",
+  "mp3": "完整课件资源/chirp3-us/b0545caaf9993f6c4b46e8c4.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.567333,
+  "voiced": 1.07,
+  "sha256": "f70e661ef78b5024cd5befed12a319cd678c7de5b37dd4c1a17f9bbc4ccf2d75",
+  "input": {
+    "text": "sausage"
+  }
+}

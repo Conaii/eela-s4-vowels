@@ -1,0 +1,18 @@
+{
+  "key": "us:My father's in the car.",
+  "text": "My father's in the car.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "822a528febb063d60273e2a254bf9b96e4b31b01a434145c1e2555dcc7559705",
+  "mp3": "完整课件资源/chirp3-us/822a528febb063d60273e2a2.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.511292,
+  "voiced": 1.94,
+  "sha256": "5caef07d518f0abaf425fcd8e0cb7cfebf24ead42824bd1c91bee6f6998dce00",
+  "input": {
+    "text": "My father's in the car."
+  }
+}

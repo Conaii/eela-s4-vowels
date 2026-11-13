@@ -1,0 +1,18 @@
+{
+  "key": "us:bead",
+  "text": "bead",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "97abf8b5ab499d82dd9a9e8d420d7bc5386e6390129c818893a653a744b37217",
+  "mp3": "完整课件资源/chirp3-us/97abf8b5ab499d82dd9a9e8d.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.033958,
+  "voiced": 0.53,
+  "sha256": "7c996f3e0f6a3b74994ebeeca9599145ffb7d0045c4689576fcb70aef00f139f",
+  "input": {
+    "text": "bead"
+  }
+}

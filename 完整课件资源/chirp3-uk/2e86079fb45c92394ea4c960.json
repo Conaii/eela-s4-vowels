@@ -1,0 +1,19 @@
+{
+  "key": "uk:bead",
+  "text": "bead",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "2e86079fb45c92394ea4c9605ed6b3fb2d64948966496ce4bad3f2c3f9b5c405",
+  "mp3": "完整课件资源/chirp3-uk/2e86079fb45c92394ea4c960.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/2e86079fb45c92394ea4c960.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.20975,
+  "voiced": 0.67,
+  "sha256": "e72408e5ef37d55700c2912ab89cc5b2345460c4b1cf4cf112524a78fbb440a8",
+  "input": {
+    "text": "bead"
+  }
+}

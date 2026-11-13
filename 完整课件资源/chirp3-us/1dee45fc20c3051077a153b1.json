@@ -1,0 +1,18 @@
+{
+  "key": "us:woman",
+  "text": "woman",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "1dee45fc20c3051077a153b1212992201d9686215c402529405c84e1283adf24",
+  "mp3": "完整课件资源/chirp3-us/1dee45fc20c3051077a153b1.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.835333,
+  "voiced": 1.11,
+  "sha256": "b8f8517554172e09b89338f453347a6dd7a223a914b0cd2f42f30756e2026d14",
+  "input": {
+    "text": "woman"
+  }
+}

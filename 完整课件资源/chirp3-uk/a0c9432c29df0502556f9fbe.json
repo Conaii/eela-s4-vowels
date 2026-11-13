@@ -1,0 +1,19 @@
+{
+  "key": "uk:Let's get out of here now.",
+  "text": "Let's get out of here now.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "a0c9432c29df0502556f9fbe20ba01a171bd37ee777d95d15006266515891a60",
+  "mp3": "完整课件资源/chirp3-uk/a0c9432c29df0502556f9fbe.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/a0c9432c29df0502556f9fbe.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.90375,
+  "voiced": 1.41,
+  "sha256": "8d8cc8fc6349ae005c0a07c9ca63b91c9ccf6cb6afe2ba4f5a0b015caf6785b3",
+  "input": {
+    "text": "Let's get out of here now."
+  }
+}

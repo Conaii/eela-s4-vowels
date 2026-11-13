@@ -1,0 +1,19 @@
+{
+  "key": "uk:rhythm",
+  "text": "rhythm",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "9ae862da4d1459182085dec0eb41b652799c7bf2a9f4ebd21a48f0ce8cb7069e",
+  "mp3": "完整课件资源/chirp3-uk/9ae862da4d1459182085dec0.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/9ae862da4d1459182085dec0.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.334667,
+  "voiced": 0.77,
+  "sha256": "5774d6169fdd946eaf422f09aa1dd66ac804ac426903fb7476dfdbb4f648e760",
+  "input": {
+    "text": "rhythm"
+  }
+}

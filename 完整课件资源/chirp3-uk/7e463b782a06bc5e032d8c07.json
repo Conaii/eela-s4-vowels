@@ -1,0 +1,19 @@
+{
+  "key": "uk:hood",
+  "text": "hood",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "7e463b782a06bc5e032d8c07a34709993565cae2b71443978ad25cc32017a368",
+  "mp3": "完整课件资源/chirp3-uk/7e463b782a06bc5e032d8c07.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/7e463b782a06bc5e032d8c07.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.093833,
+  "voiced": 0.59,
+  "sha256": "328b7a3e34e26a8c687f93c17bfe5211a618ee83a3e90551374bc2b2462ff125",
+  "input": {
+    "text": "hood"
+  }
+}

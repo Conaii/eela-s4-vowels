@@ -1,0 +1,18 @@
+{
+  "key": "us:car engine",
+  "text": "car engine",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "bf96943f05032e3eebcfe90df7a68ab81f966d9a6d5234e393f40fec05f7b4b9",
+  "mp3": "完整课件资源/chirp3-us/bf96943f05032e3eebcfe90d.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.815958,
+  "voiced": 1.32,
+  "sha256": "5d89e3f7b1e217a7b7ff790ba8aa0e378a3ff847450900fb3b36e8376b9368fe",
+  "input": {
+    "text": "car engine"
+  }
+}

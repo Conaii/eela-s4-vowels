@@ -1,0 +1,19 @@
+{
+  "key": "uk:woman",
+  "text": "woman",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "dd3f6da2acb55dfd9c98c990663eb132cf8a54d5f1119ed61e35b88b32a0af7d",
+  "mp3": "完整课件资源/chirp3-uk/dd3f6da2acb55dfd9c98c990.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/dd3f6da2acb55dfd9c98c990.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.137542,
+  "voiced": 0.64,
+  "sha256": "dd738bebf5c9bfb44ceac7f0be2443691028a46b8ac1bebe581416ebafb42f99",
+  "input": {
+    "text": "woman"
+  }
+}

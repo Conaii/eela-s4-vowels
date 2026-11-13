@@ -1,0 +1,19 @@
+{
+  "key": "uk:Willy asks if I've ever flown a kite before.",
+  "text": "Willy asks if I've ever flown a kite before.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "7e4a2562d598d25625969cf33a427638198ca48563cfe881b9dbffbbd6a627b4",
+  "mp3": "完整课件资源/chirp3-uk/7e4a2562d598d25625969cf3.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/7e4a2562d598d25625969cf3.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 3.417917,
+  "voiced": 2.88,
+  "sha256": "d5e83976d9a6e163c34243e899dcc74aebccc5ba449bee3ca8fcbbdec732a741",
+  "input": {
+    "text": "Willy asks if I've ever flown a kite before."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "key": "uk:Pack the baggage in the back of the taxi.",
+  "text": "Pack the baggage in the back of the taxi.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "373a44cf39c83087378c2f7cc4e255fdbfd882844b08312111cc060db770b8d4",
+  "mp3": "完整课件资源/chirp3-uk/373a44cf39c83087378c2f7c.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/373a44cf39c83087378c2f7c.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.777208,
+  "voiced": 2.26,
+  "sha256": "8b12b320bcde471ca05762a11d609d24a5f9a8ed963900500912cbd638c656ff",
+  "input": {
+    "text": "Pack the baggage in the back of the taxi."
+  }
+}

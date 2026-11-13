@@ -1,0 +1,19 @@
+{
+  "key": "uk:mouse",
+  "text": "mouse",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "079be7572a5b22d4904b871d1356bee9a3667ff8f5ff6e082110d681ec8b534c",
+  "mp3": "完整课件资源/chirp3-uk/079be7572a5b22d4904b871d.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/079be7572a5b22d4904b871d.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.20675,
+  "voiced": 0.69,
+  "sha256": "231e1aabe41e6fc880daf19eee5f59e0e4c5d0d97ab5eabc26df93d8d1ef8d9d",
+  "input": {
+    "text": "mouse"
+  }
+}

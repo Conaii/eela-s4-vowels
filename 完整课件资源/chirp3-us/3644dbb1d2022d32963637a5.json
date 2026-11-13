@@ -1,0 +1,18 @@
+{
+  "key": "us:beach",
+  "text": "beach",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "3644dbb1d2022d32963637a50deccaecbcf4ed53d2eee953079cea6e707c229e",
+  "mp3": "完整课件资源/chirp3-us/3644dbb1d2022d32963637a5.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.19225,
+  "voiced": 0.68,
+  "sha256": "b6d14a55d08b1dd1f6e5393633c3f9c72c1383103880d9961e7163a95b030152",
+  "input": {
+    "text": "beach"
+  }
+}

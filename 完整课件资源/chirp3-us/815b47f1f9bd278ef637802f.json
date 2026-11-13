@@ -1,0 +1,18 @@
+{
+  "key": "us:Exercise is the only way to get a flat stomach after having a baby.",
+  "text": "Exercise is the only way to get a flat stomach after having a baby.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "815b47f1f9bd278ef637802feff51a357e99540c856217eb48bd728500d25c80",
+  "mp3": "完整课件资源/chirp3-us/815b47f1f9bd278ef637802f.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 5.420625,
+  "voiced": 4.92,
+  "sha256": "41925bba6591dbd52c57c887a2f145519ae886b69bacefdb7ddc256307eaae72",
+  "input": {
+    "text": "Exercise is the only way to get a flat stomach after having a baby."
+  }
+}

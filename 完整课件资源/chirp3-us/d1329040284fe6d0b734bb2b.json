@@ -1,0 +1,18 @@
+{
+  "key": "us:Business is business.",
+  "text": "Business is business.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "d1329040284fe6d0b734bb2b4a7f8c19530ee090cd4cc4fba2959ba6b4107c1a",
+  "mp3": "完整课件资源/chirp3-us/d1329040284fe6d0b734bb2b.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 3.38625,
+  "voiced": 2.72,
+  "sha256": "6dff241485c85685d5b5953b1ca342dbf0c09f815605398cffdfe4ead9104f8f",
+  "input": {
+    "text": "Business is business."
+  }
+}

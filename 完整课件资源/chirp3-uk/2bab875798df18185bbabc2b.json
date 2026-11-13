@@ -1,0 +1,19 @@
+{
+  "key": "uk:vine",
+  "text": "vine",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "2bab875798df18185bbabc2b7e55e34b5f8ae9f4afa3e9676bc3251b4dbef1ab",
+  "mp3": "完整课件资源/chirp3-uk/2bab875798df18185bbabc2b.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/2bab875798df18185bbabc2b.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.282042,
+  "voiced": 0.76,
+  "sha256": "bba0ce4f2f1b0d1974fc0382622382519af3f747807e68313faf9121a38d705b",
+  "input": {
+    "text": "vine"
+  }
+}

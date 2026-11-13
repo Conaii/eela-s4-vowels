@@ -1,0 +1,18 @@
+{
+  "key": "us:It's not the end of the world.",
+  "text": "It's not the end of the world.",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.8,
+  "request_digest": "c41baa863f9b29793618b860b8f0ea84a83e8289c0c4fae92b14013940462f6f",
+  "mp3": "完整课件资源/chirp3-us/c41baa863f9b29793618b860.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.650083,
+  "voiced": 1.15,
+  "sha256": "8ddf9f1e607148e7f5014485b4580377d4768d02489dded25b6353c4befc3de5",
+  "input": {
+    "text": "It's not the end of the world."
+  }
+}

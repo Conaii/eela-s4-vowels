@@ -1,0 +1,19 @@
+{
+  "key": "uk:They can't have children.",
+  "text": "They can't have children.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.8,
+  "request_digest": "675dd169db6b1474f2f77e290a665c3e681c2ae2b040e6e3cb25aa99ed0254ec",
+  "mp3": "完整课件资源/chirp3-uk/675dd169db6b1474f2f77e29.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/675dd169db6b1474f2f77e29.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.963875,
+  "voiced": 1.47,
+  "sha256": "b02bed5cc503e8e05a916beb9eb1722993e2bc457a72db91da1cc828efd61805",
+  "input": {
+    "text": "They can't have children."
+  }
+}

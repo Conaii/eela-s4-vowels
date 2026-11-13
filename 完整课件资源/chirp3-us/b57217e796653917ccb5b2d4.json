@@ -1,0 +1,18 @@
+{
+  "key": "us:pig",
+  "text": "pig",
+  "accent": "us",
+  "locale": "en-US",
+  "voice": "en-US-Chirp3-HD-Algenib",
+  "rate": 0.7,
+  "request_digest": "b57217e796653917ccb5b2d429d564ff55c313bd614958bb4ab4c96862dfff93",
+  "mp3": "完整课件资源/chirp3-us/b57217e796653917ccb5b2d4.mp3",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 2.101542,
+  "voiced": 1.6,
+  "sha256": "f0629c0dca5370416231d78a829ba297498d0f0740b4a87de3f3f74629fa14d6",
+  "input": {
+    "text": "pig"
+  }
+}

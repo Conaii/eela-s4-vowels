@@ -1,0 +1,19 @@
+{
+  "key": "uk:girl",
+  "text": "girl",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "251bb2d914b85d362be1c6a48fabc18aa58ff90482ee334b54f416f8ef80bbf5",
+  "mp3": "完整课件资源/chirp3-uk/251bb2d914b85d362be1c6a4.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/251bb2d914b85d362be1c6a4.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.057958,
+  "voiced": 0.56,
+  "sha256": "7b669b4a25347cb2a0c0335c8c2044713e910df71a162340620caf6e6d5c50ca",
+  "input": {
+    "text": "girl"
+  }
+}

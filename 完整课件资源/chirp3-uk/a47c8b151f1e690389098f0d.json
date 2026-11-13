@@ -1,0 +1,19 @@
+{
+  "key": "uk:car engine",
+  "text": "car engine",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "a47c8b151f1e690389098f0d3a18ece7a796569fd225c63c4c469c17737d25aa",
+  "mp3": "完整课件资源/chirp3-uk/a47c8b151f1e690389098f0d.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/a47c8b151f1e690389098f0d.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.809,
+  "voiced": 1.31,
+  "sha256": "a3ada26ad5699b10efbb6cd53b5c630b6e6ffe3997c703a2fbb57f1c764ef590",
+  "input": {
+    "text": "car engine"
+  }
+}

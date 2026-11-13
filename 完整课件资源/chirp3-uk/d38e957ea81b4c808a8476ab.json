@@ -1,0 +1,19 @@
+{
+  "key": "uk:colder",
+  "text": "colder",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "d38e957ea81b4c808a8476ab28753f9513f1c6c8f0e582a2286c363ff2ccea2c",
+  "mp3": "完整课件资源/chirp3-uk/d38e957ea81b4c808a8476ab.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/d38e957ea81b4c808a8476ab.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.276583,
+  "voiced": 0.77,
+  "sha256": "7d9d3ea3508209999e7c52fa67825f6e23466d6ce26a5bc8160650cb47cbb439",
+  "input": {
+    "text": "colder"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "key": "uk:A chocolate cake.",
+  "text": "A chocolate cake.",
+  "accent": "uk",
+  "locale": "en-GB",
+  "voice": "en-GB-Chirp3-HD-Orus",
+  "rate": 0.7,
+  "request_digest": "b95bbf5c6037ef90b0f7246b6fc10e35c7ce4c4bcd428f62452a9ea2c9a566d1",
+  "mp3": "完整课件资源/chirp3-uk/b95bbf5c6037ef90b0f7246b.mp3",
+  "flac": "完整课件资源/chirp3-gb-lossless/b95bbf5c6037ef90b0f7246b.flac",
+  "provider": "Google Cloud Text-to-Speech",
+  "model": "Chirp 3 HD",
+  "duration": 1.984208,
+  "voiced": 1.47,
+  "sha256": "1bdaab96a00e00b4bf57b5dd8685a24a589f4d0a8eb7f6a85dce88695085d121",
+  "input": {
+    "text": "A chocolate cake."
+  }
+}
